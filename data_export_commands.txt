@@ -1,0 +1,8 @@
+Ratings:
+mongoexport --host kompas-cluster-productiondb-shard-0/kompas-cluster-productiondb-shard-00-00-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-01-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-02-frhl7.mongodb.net:27017 --ssl --username kompas-productiondb --password KkK0vfKuFlpfEJvH --authenticationDatabase admin --db kompas-db-prod --collection ratings --type csv --out ratedPlaces.csv --fields "_id,userId,likedPlaces,dislikedPlaces" --forceTableScan
+
+Users:
+mongoexport --host kompas-cluster-productiondb-shard-0/kompas-cluster-productiondb-shard-00-00-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-01-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-02-frhl7.mongodb.net:27017 --ssl --username kompas-productiondb --password KkK0vfKuFlpfEJvH --authenticationDatabase admin --db kompas-db-prod --collection users --type csv --out users_dump.csv --fields "_id,firstName,lastName,interests" --forceTableScan
+
+Locations:
+mongoexport --host kompas-cluster-productiondb-shard-0/kompas-cluster-productiondb-shard-00-00-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-01-frhl7.mongodb.net:27017,kompas-cluster-productiondb-shard-00-02-frhl7.mongodb.net:27017 --ssl --username kompas-productiondb --password KkK0vfKuFlpfEJvH --authenticationDatabase admin --db kompas-db-prod --collection locations --type csv --out locations_dump.csv --fields "_id,name,city,subCategory" --forceTableScan
