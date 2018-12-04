@@ -139,7 +139,7 @@
     "city": "Munich",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes"
     ]
@@ -206,7 +206,7 @@
     "subCategory": [
       "sweet treats",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -345,7 +345,7 @@
     "name": "Café Daddy Longlegs",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegan",
       "vegetarian",
       "clean eating",
@@ -467,16 +467,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c5a9514f4ba437b8716b0)",
-    "name": "awi",
-    "city": "Munich",
-    "subCategory": [
-      "bars",
-      "cocktail bars",
-      "dancing"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c5ae614f4ba437b871727)",
     "name": "Couch Club",
     "city": "Munich",
@@ -539,7 +529,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -570,9 +560,8 @@
     "name": "Bayern-Kamele",
     "city": "Munich",
     "subCategory": [
-      "zoos",
-      "curiosities",
-      "group thrills"
+      "nature",
+      "animals"
     ]
   },
   {
@@ -583,7 +572,7 @@
       "restaurants",
       "bakeries",
       "sweet treats",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -591,7 +580,12 @@
     "name": "Chinesischer Turm",
     "city": "Munich",
     "subCategory": [
-      "landmarks"
+      "views",
+      "photography",
+      "beer",
+      "group dining",
+      "al fresco",
+      "live music"
     ]
   },
   {
@@ -720,6 +714,7 @@
     "city": "Munich",
     "subCategory": [
       "architecture",
+      "photography",
       "landmarks",
       "curiosities"
     ]
@@ -833,7 +828,7 @@
     "name": "Occam Deli",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bakeries",
       "quick bites",
       "restaurants",
@@ -890,7 +885,7 @@
     "name": "Mi Piace",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "quick bites",
       "sweet treats",
@@ -947,8 +942,10 @@
     "name": "Lisboa Bar",
     "city": "Munich",
     "subCategory": [
-      "restaurants",
-      "bars"
+      "vegetarian",
+      "group dining",
+      "casual dining",
+      "sharing plates"
     ]
   },
   {
@@ -984,7 +981,8 @@
     "city": "Munich",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -995,14 +993,6 @@
       "lunch spots",
       "cafes",
       "bars"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c5b3814f4ba437b8717a2)",
-    "name": "La Brasserie",
-    "city": "Munich",
-    "subCategory": [
-      "restaurants"
     ]
   },
   {
@@ -1048,7 +1038,7 @@
       "vegan",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -1145,7 +1135,7 @@
     "name": "Mauerer",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "cafes",
       "artisan coffee"
@@ -1185,7 +1175,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -1194,8 +1184,10 @@
     "name": "Olympiaturm",
     "city": "Munich",
     "subCategory": [
+      "views",
       "landmarks",
-      "views"
+      "architecture",
+      "photography"
     ]
   },
   {
@@ -1232,7 +1224,8 @@
     "city": "Munich",
     "subCategory": [
       "landmarks",
-      "curiosities"
+      "nature",
+      "photography"
     ]
   },
   {
@@ -1267,7 +1260,7 @@
     "name": "Die Waldmeister",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -1295,7 +1288,9 @@
     "name": "Olydorf",
     "city": "Munich",
     "subCategory": [
-      "street art"
+      "art",
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -1475,8 +1470,6 @@
     "name": "Juristische Bibliothek im Rathaus",
     "city": "Munich",
     "subCategory": [
-      "libraries",
-      "landmarks",
       "architecture"
     ]
   },
@@ -1504,7 +1497,9 @@
     "name": "Positive-Propaganda",
     "city": "Munich",
     "subCategory": [
-      "art"
+      "art",
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -1573,7 +1568,8 @@
     "city": "Munich",
     "subCategory": [
       "theatres",
-      "performing arts venues"
+      "art",
+      "photography"
     ]
   },
   {
@@ -1591,10 +1587,8 @@
     "city": "Munich",
     "subCategory": [
       "art",
-      "libraries",
-      "lunch spot",
-      "quick bites",
-      "cafes"
+      "cafes",
+      "museums"
     ]
   },
   {
@@ -1816,7 +1810,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "artisan coffee",
@@ -1883,7 +1877,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "sharing plates"
     ]
@@ -1902,7 +1896,8 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "history museums"
+      "photography",
+      "landmarks"
     ]
   },
   {
@@ -2045,8 +2040,10 @@
     "name": "Stasi Museum",
     "city": "Berlin",
     "subCategory": [
-      "museums",
-      "history museums"
+      "photography",
+      "views",
+      "landmarks",
+      "museums"
     ]
   },
   {
@@ -2061,7 +2058,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "tea rooms",
@@ -2111,7 +2108,7 @@
     "name": "Cafe KRONE",
     "city": "Berlin",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "vegan",
       "vegetarian",
@@ -2179,7 +2176,7 @@
       "bakeries",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -2237,7 +2234,7 @@
     "city": "Exeter",
     "subCategory": [
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "tea rooms",
@@ -2252,7 +2249,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "roasts",
       "sharing plates"
@@ -2331,10 +2328,10 @@
     "name": "The Hour Glass",
     "city": "Exeter",
     "subCategory": [
-      "lunch spots",
-      "gourmet food",
-      "clean eating",
-      "vegetarian"
+      "beer",
+      "pubs",
+      "group dining",
+      "casual dining"
     ]
   },
   {
@@ -2365,7 +2362,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -2393,7 +2390,8 @@
     "city": "Berlin",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "museums"
     ]
   },
   {
@@ -2436,10 +2434,9 @@
     "name": "Das Hotel Bar",
     "city": "Berlin",
     "subCategory": [
-      "bar",
-      "cocktail bars",
-      "dancing",
-      "music venues"
+      "live music",
+      "late night",
+      "pubs"
     ]
   },
   {
@@ -2451,7 +2448,7 @@
       "meat lovers",
       "lunch spots",
       "pizzas",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -2525,18 +2522,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c5be114f4ba437b8718a9)",
-    "name": "Wiener's Café",
-    "city": "Munich",
-    "subCategory": [
-      "lunch spots",
-      "quick bites",
-      "sweet treats",
-      "cafes"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -2547,7 +2533,7 @@
       "quick bites",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -2639,7 +2625,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -2648,7 +2634,7 @@
     "city": "Berlin",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "bars",
       "cocktail bars",
@@ -2720,7 +2706,7 @@
     "city": "Berlin",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -2757,16 +2743,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c616914f4ba437b871f1d)",
-    "name": "Zaim",
-    "city": "Berlin",
-    "subCategory": [
-      "restaurants",
-      "quick bites",
-      "clean eating"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c62b014f4ba437b8726ea)",
     "name": "Arancina Pizzeria",
     "city": "London",
@@ -2782,7 +2758,7 @@
     "name": "Café Blume",
     "city": "Berlin",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "artisan coffee"
     ]
@@ -2798,7 +2774,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -2826,7 +2802,7 @@
     "subCategory": [
       "restaurants",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "clean eating",
       "sweet treats",
       "artisan coffee"
@@ -2861,7 +2837,7 @@
       "bakeries",
       "restaurants",
       "meat lovers",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -2878,7 +2854,9 @@
     "city": "Berlin",
     "subCategory": [
       "art",
-      "art galleries"
+      "photography",
+      "museums",
+      "book shops"
     ]
   },
   {
@@ -2886,8 +2864,9 @@
     "name": "Royal Albert Memorial Museum",
     "city": "Exeter",
     "subCategory": [
-      "art galleries",
-      "art museums"
+      "art",
+      "photography",
+      "museums"
     ]
   },
   {
@@ -3063,7 +3042,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -3103,7 +3082,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bars",
       "pubs",
       "cocktail bars"
@@ -3183,16 +3162,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c616714f4ba437b871f19)",
-    "name": "Zaim",
-    "city": "Berlin",
-    "subCategory": [
-      "restaurants",
-      "quick bites",
-      "clean eating"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c5e0014f4ba437b8719bc)",
     "name": "Al-Farid",
     "city": "Exeter",
@@ -3210,8 +3179,8 @@
     "name": "Liquidrom",
     "city": "Berlin",
     "subCategory": [
-      "music venues",
-      "wellbeing"
+      "relaxation and spas",
+      "architecture"
     ]
   },
   {
@@ -3234,7 +3203,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "cafes"
     ]
@@ -3266,7 +3235,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -3287,7 +3256,7 @@
       "quick bites",
       "street foods",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "vegetarian",
       "vegan"
@@ -3301,7 +3270,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -3410,8 +3379,10 @@
     "name": "Kraftwerk Berlin",
     "city": "Berlin",
     "subCategory": [
-      "art",
-      "performing arts venues"
+      "photography",
+      "music",
+      "fashion",
+      "urbex"
     ]
   },
   {
@@ -3440,7 +3411,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "sports",
       "parks"
@@ -3485,7 +3456,7 @@
       "bakeries",
       "vegan",
       "vegetarian",
-      "food & drink"
+      "food \\u0026 drink"
     ]
   },
   {
@@ -3688,7 +3659,9 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "history museums"
+      "photography",
+      "landmarks",
+      "views"
     ]
   },
   {
@@ -3696,8 +3669,7 @@
     "name": "Bar Italia",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "artisan coffee"
+      "casual drinks"
     ]
   },
   {
@@ -3716,7 +3688,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegetarian",
       "sweet treats",
       "artisan coffee"
@@ -3727,8 +3699,10 @@
     "name": "Viscardigasse/Drückebergergasse",
     "city": "Munich",
     "subCategory": [
-      "landmarks",
-      "curiosities"
+      "photography",
+      "nature",
+      "curiosities",
+      "landmarks"
     ]
   },
   {
@@ -3770,7 +3744,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "artisan coffee",
@@ -3808,7 +3782,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -3837,7 +3811,7 @@
     "subCategory": [
       "quick bites",
       "lunch",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegan",
       "vegetarian",
       "cafes"
@@ -3860,7 +3834,7 @@
     "name": "Tomasa",
     "city": "Berlin",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "vegan",
       "vegetarian",
@@ -3886,10 +3860,10 @@
     "name": "House of Weekend",
     "city": "Berlin",
     "subCategory": [
-      "bar",
-      "cocktail bars",
-      "dancing",
-      "music venues"
+      "live music",
+      "views",
+      "late night",
+      "nightclubs"
     ]
   },
   {
@@ -4067,7 +4041,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "sweet treats"
     ]
@@ -4100,7 +4074,7 @@
       "restaurants",
       "burgers",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -4141,7 +4115,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -4223,7 +4197,7 @@
       "restaurants",
       "late foods",
       "cheat days",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -4257,7 +4231,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -4278,7 +4252,7 @@
       "quick bites",
       "lunch spots",
       "street foods",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats"
     ]
   },
@@ -4302,19 +4276,6 @@
     "subCategory": [
       "restaurants",
       "lunch spots"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c60c914f4ba437b871e09)",
-    "name": "NETA",
-    "city": "Berlin",
-    "subCategory": [
-      "quick bites",
-      "street foods",
-      "lunch spots",
-      "vegetarian",
-      "vegan",
-      "traditional"
     ]
   },
   {
@@ -4501,7 +4462,8 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "history museums"
+      "photography",
+      "art"
     ]
   },
   {
@@ -4640,10 +4602,11 @@
     "name": "Seerose",
     "city": "Berlin",
     "subCategory": [
-      "restaurants",
-      "clean eating",
+      "vegan",
       "vegetarian",
-      "lunch spots"
+      "gluten free",
+      "casual dining",
+      "group dining"
     ]
   },
   {
@@ -4765,7 +4728,7 @@
     "subCategory": [
       "restaurants",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -4884,7 +4847,7 @@
       "cheat day",
       "lunch spots",
       "vegan",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -4930,8 +4893,12 @@
     "name": "Molecule Man",
     "city": "Berlin",
     "subCategory": [
-      "sculpture",
-      "street art"
+      "art",
+      "photography",
+      "urbex",
+      "views",
+      "nature",
+      "landmarks"
     ]
   },
   {
@@ -5043,8 +5010,8 @@
     "city": "Berlin",
     "subCategory": [
       "art",
-      "street art",
-      "sculptures"
+      "photography",
+      "museums"
     ]
   },
   {
@@ -5075,11 +5042,13 @@
     "name": "Cookies Cream",
     "city": "Berlin",
     "subCategory": [
-      "restaurants",
+      "vegan",
       "vegetarian",
+      "gluten free",
+      "group dining",
       "sweet treats",
-      "lunch spots",
-      "gourmet food"
+      "beer",
+      "wine bars"
     ]
   },
   {
@@ -5107,7 +5076,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegan",
       "vegetarian",
       "artisan coffee"
@@ -5173,7 +5142,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "food and drink"
     ]
@@ -5314,7 +5283,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee",
       "cafes",
@@ -5334,7 +5303,7 @@
       "gourmet food",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "roast"
     ]
@@ -5348,7 +5317,7 @@
       "restaurants",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -5370,10 +5339,11 @@
     "name": "Timepiece",
     "city": "Exeter",
     "subCategory": [
-      "bars",
-      "clubs",
-      "dancing",
-      "music venues"
+      "live music",
+      "pubs",
+      "comedy",
+      "late night",
+      "nightclubs"
     ]
   },
   {
@@ -5391,7 +5361,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes"
     ]
@@ -5425,7 +5395,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -5470,8 +5440,11 @@
     "name": "Kunsthof",
     "city": "Berlin",
     "subCategory": [
-      "art galleries",
-      "art"
+      "art",
+      "photography",
+      "hobby shops",
+      "nature",
+      "landmarks"
     ]
   },
   {
@@ -5497,8 +5470,8 @@
     "name": "Badeschiff",
     "city": "Berlin",
     "subCategory": [
-      "music venues",
-      "wellbeing"
+      "sports",
+      "relaxation and spas"
     ]
   },
   {
@@ -5725,9 +5698,13 @@
     "name": "Schloß Britz",
     "city": "Berlin",
     "subCategory": [
-      "art",
+      "landmarks",
+      "views",
       "museums",
-      "landmarks"
+      "photography",
+      "nature",
+      "animals",
+      "music"
     ]
   },
   {
@@ -5802,7 +5779,7 @@
       "cheat day",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "burgers",
       "vegetarian",
@@ -5837,7 +5814,7 @@
     "name": "Exeter Synagogue",
     "city": "Exeter",
     "subCategory": [
-      "landmarks"
+      "religion"
     ]
   },
   {
@@ -5870,7 +5847,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -5907,22 +5884,6 @@
       "parks",
       "group thrills",
       "wellbeing"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c612d14f4ba437b871ebb)",
-    "name": "The Bowl",
-    "city": "Berlin",
-    "subCategory": [
-      "quick bites",
-      "clean eating",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "breakfast & brunch",
-      "cafes",
-      "smoothies",
-      "cafes"
     ]
   },
   {
@@ -5988,9 +5949,8 @@
     "name": "Gandy Street",
     "city": "Exeter",
     "subCategory": [
-      "architecture",
       "landmarks",
-      "curiosities"
+      "art"
     ]
   },
   {
@@ -6058,7 +6018,11 @@
     "name": "Custom House Visitor Centre",
     "city": "Exeter",
     "subCategory": [
-      "landmarks"
+      "landmarks",
+      "nature",
+      "views",
+      "art",
+      "photography"
     ]
   },
   {
@@ -6256,7 +6220,8 @@
     "city": "Exeter",
     "subCategory": [
       "landmarks",
-      "parks"
+      "nature",
+      "photography"
     ]
   },
   {
@@ -6384,7 +6349,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee"
     ]
   },
@@ -6449,7 +6414,7 @@
       "vegan",
       "vegetarian",
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "tea rooms",
@@ -6508,7 +6473,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "meat lovers"
     ]
@@ -6519,7 +6484,7 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "history museums"
+      "photography"
     ]
   },
   {
@@ -6599,7 +6564,7 @@
     "city": "Berlin",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegetarian",
       "vegan",
       "cafes",
@@ -6644,7 +6609,7 @@
     "subCategory": [
       "restaurants",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "clean eating",
       "sweet treats",
       "artisan coffee"
@@ -6694,7 +6659,7 @@
     "city": "Berlin",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes"
     ]
@@ -6743,7 +6708,7 @@
     "name": "Roamers Berlin",
     "city": "Berlin",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "vegan",
       "vegetarian",
@@ -6764,8 +6729,9 @@
     "name": "Twinpigs",
     "city": "Berlin",
     "subCategory": [
-      "bars",
-      "cocktail bars"
+      "late night",
+      "wine bars",
+      "beer"
     ]
   },
   {
@@ -6839,7 +6805,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "cafes"
     ]
@@ -6852,7 +6818,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -6873,7 +6839,9 @@
     "name": "Sammlung Boros",
     "city": "Berlin",
     "subCategory": [
-      "art galleries"
+      "art",
+      "photography",
+      "museums"
     ]
   },
   {
@@ -6882,8 +6850,7 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "landmarks",
-      "history museums"
+      "photography"
     ]
   },
   {
@@ -6946,7 +6913,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "juice bars",
@@ -7017,7 +6984,7 @@
     "city": "Berlin",
     "subCategory": [
       "art",
-      "art galleries"
+      "photography"
     ]
   },
   {
@@ -7192,7 +7159,7 @@
       "cafes",
       "quick bites",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -7257,8 +7224,9 @@
     "name": "Samurai Art Museum",
     "city": "Berlin",
     "subCategory": [
-      "museums",
-      "history museums"
+      "art",
+      "photography",
+      "museums"
     ]
   },
   {
@@ -7457,10 +7425,9 @@
     "name": "Brickwood Coffee & Bread",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "lunch spots",
-      "breakfast & brunch",
-      "cafes"
+      "cafes",
+      "artisan coffee",
+      "group dining"
     ]
   },
   {
@@ -7578,7 +7545,7 @@
     "subCategory": [
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes"
     ]
@@ -7613,7 +7580,7 @@
       "meat lovers",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "sharing plates",
       "bars",
@@ -7722,7 +7689,7 @@
     "subCategory": [
       "quick bites",
       "roasts",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "art",
       "art galleries"
@@ -7747,7 +7714,7 @@
       "gourmet food",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "bars",
       "cocktail bars"
@@ -7772,7 +7739,7 @@
       "clean eating",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bars",
       "cocktail bars"
     ]
@@ -7879,7 +7846,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee",
       "cafes"
@@ -7987,8 +7954,8 @@
     "city": "Berlin",
     "subCategory": [
       "museums",
-      "art",
-      "art galleries"
+      "photography",
+      "art"
     ]
   },
   {
@@ -8075,7 +8042,7 @@
       "quick bites",
       "cheat day",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "cafes",
       "vegan",
@@ -8300,7 +8267,7 @@
       "quick bites",
       "lunch spots",
       "clean eating",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -8326,23 +8293,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c640514f4ba437b87290a)",
-    "name": "Chelsea Football Club Museum",
-    "city": "London",
-    "subCategory": [
-      "cafes",
-      "bars",
-      "landmarks",
-      "museums",
-      "performing arts venues",
-      "sports",
-      "hobby shops",
-      "curiosities",
-      "group thrills",
-      "views"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c63a214f4ba437b87286c)",
     "name": "Brixton Street Market",
     "city": "London",
@@ -8357,7 +8307,7 @@
       "pizzas",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "sharing plates",
       "juice bars",
@@ -8376,7 +8326,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -8397,7 +8347,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -8417,7 +8367,7 @@
     "subCategory": [
       "restaurants",
       "quick bites",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -8426,15 +8376,6 @@
     "city": "London",
     "subCategory": [
       "cafes"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c634e14f4ba437b8727eb)",
-    "name": "Blitz",
-    "city": "London",
-    "subCategory": [
-      "threads",
-      "vintage stores"
     ]
   },
   {
@@ -8479,7 +8420,8 @@
     "city": "Exeter",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -8531,7 +8473,7 @@
       "cheat day",
       "bakeries",
       "street foods",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "food and drink"
     ]
   },
@@ -8662,7 +8604,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "tea rooms"
@@ -8677,7 +8619,7 @@
       "street foods",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -8752,7 +8694,7 @@
       "pizzas",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -8992,15 +8934,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c633014f4ba437b8727b7)",
-    "name": "Benedicts Store",
-    "city": "London",
-    "subCategory": [
-      "artisan coffee",
-      "cafes"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c636414f4ba437b872810)",
     "name": "Blue Tit",
     "city": "London",
@@ -9046,19 +8979,6 @@
     "city": "London",
     "subCategory": [
       "home stores"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c60c514f4ba437b871e06)",
-    "name": "NETA",
-    "city": "Berlin",
-    "subCategory": [
-      "quick bites",
-      "street foods",
-      "lunch spots",
-      "vegetarian",
-      "vegan",
-      "traditional"
     ]
   },
   {
@@ -9126,7 +9046,7 @@
       "cheat day",
       "restaurants",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "design stores",
       "markets",
       "home stores",
@@ -9153,7 +9073,7 @@
       "restaurants",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "traditional"
     ]
@@ -9297,7 +9217,7 @@
     "name": "Cereal Killer Cafe",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -9347,7 +9267,7 @@
       "gourmet food",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "bars",
       "cocktail bars"
@@ -9384,21 +9304,13 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c63cf14f4ba437b8728b7)",
-    "name": "Cafe Aspretto",
-    "city": "London",
-    "subCategory": [
-      "cafes"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c63e014f4ba437b8728d0)",
     "name": "Canto Corvino",
     "city": "London",
     "subCategory": [
       "restaurants",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -9443,15 +9355,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c614314f4ba437b871ed9)",
-    "name": "Treptower Park",
-    "city": "Berlin",
-    "subCategory": [
-      "parks",
-      "landmarks"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c614414f4ba437b871edc)",
     "name": "Tresor",
     "city": "Berlin",
@@ -9475,7 +9378,7 @@
     "name": "Cereal Killer Cafe",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -9597,7 +9500,7 @@
       "clean eating",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "sharing plates",
       "bars",
@@ -9656,7 +9559,7 @@
       "bakeries",
       "street foods",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional"
     ]
@@ -9667,7 +9570,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -9703,7 +9606,7 @@
       "pizzas",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "burgers",
       "sharing plates",
@@ -9807,7 +9710,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "sharing plates"
     ]
@@ -9833,7 +9736,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -9951,7 +9854,7 @@
     "city": "London",
     "subCategory": [
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "artisan coffee"
     ]
@@ -10021,17 +9924,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c646114f4ba437b872992)",
-    "name": "Counter Kitchen",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "cafes",
-      "clean eating",
-      "vegetarian"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c646414f4ba437b872997)",
     "name": "Covent Garden Grind",
     "city": "London",
@@ -10062,19 +9954,6 @@
     "city": "London",
     "subCategory": [
       "artisan coffee"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c647014f4ba437b8729ad)",
-    "name": "Crazy Bear Thai Restaurant",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "lunch spots",
-      "bars",
-      "cocktail bars",
-      "wine bars"
     ]
   },
   {
@@ -10153,7 +10032,7 @@
     "name": "Darwin Brasserie",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bars",
       "cocktail bars",
       "rooftop bars",
@@ -10335,7 +10214,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "gourmet food"
     ]
   },
@@ -10376,22 +10255,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c646f14f4ba437b8729ab)",
-    "name": "Crazy Bear English Restaurant",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "lunch spots",
-      "bars",
-      "cocktail bars",
-      "wine bars",
-      "meat lovers",
-      "vegetarian",
-      "roasts"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c64a114f4ba437b8729f3)",
     "name": "David Lean Cinema",
     "city": "London",
@@ -10423,7 +10286,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -10722,14 +10585,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c652314f4ba437b872ac7)",
-    "name": "Fatties Bakery",
-    "city": "London",
-    "subCategory": [
-      "bakeries"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c653714f4ba437b872ae5)",
     "name": "Flat White",
     "city": "London",
@@ -10747,7 +10602,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "juice bars",
       "cafes"
@@ -11182,7 +11037,7 @@
       "quick bites",
       "restaurants",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -11294,7 +11149,7 @@
       "restaurants",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "bars",
       "cocktail bars",
@@ -11379,7 +11234,7 @@
     "city": "London",
     "subCategory": [
       "artisan coffee",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats"
     ]
   },
@@ -11424,7 +11279,7 @@
       "bakeries",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -11647,11 +11502,15 @@
     "name": "Gaucho",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "meat lovers",
-      "roasts",
-      "traditional"
+      "meats",
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "fine dining",
+      "casual drinks",
+      "views",
+      "al fresco",
+      "wine bars"
     ]
   },
   {
@@ -11701,7 +11560,7 @@
       "street foods",
       "lunch spots",
       "sharing plates",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -11750,7 +11609,7 @@
     "subCategory": [
       "cafes",
       "sweet treats",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -11845,7 +11704,7 @@
       "bakeries",
       "lunch spots",
       "pizzas",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -11930,7 +11789,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -12033,7 +11892,7 @@
     "name": "Madeleine",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -12107,7 +11966,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "tea rooms"
@@ -12174,7 +12033,7 @@
     "city": "London",
     "subCategory": [
       "cafes",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots"
     ]
   },
@@ -12186,7 +12045,7 @@
       "restaurants",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -12237,14 +12096,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c658414f4ba437b872b64)",
-    "name": "Gordon's Cafe",
-    "city": "London",
-    "subCategory": [
-      "cafes"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c662214f4ba437b872c5e)",
     "name": "J Sheekey Atlantic Bar",
     "city": "London",
@@ -12253,7 +12104,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "sharing plates",
       "bars",
@@ -12388,7 +12239,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "artisan coffee",
       "cafes"
@@ -12402,7 +12253,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bars",
       "cocktail bars",
       "wine bars",
@@ -12443,8 +12294,11 @@
     "name": "Jackson + Rye",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet"
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "meats",
+      "fine dining"
     ]
   },
   {
@@ -12483,7 +12337,7 @@
     "subCategory": [
       "restaurants",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -12501,7 +12355,7 @@
     "subCategory": [
       "cafes",
       "smoothies",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "wellbeing"
     ]
@@ -12574,16 +12428,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c66bb14f4ba437b872d49)",
-    "name": "Library",
-    "city": "London",
-    "subCategory": [
-      "cafes",
-      "bars",
-      "cocktail bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c660914f4ba437b872c37)",
     "name": "Ian Dury's Memorial Bench",
     "city": "London",
@@ -12623,17 +12467,6 @@
       "history museums",
       "curiosities",
       "science museums"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c673e14f4ba437b872e1b)",
-    "name": "Melt Room",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "cheat day",
-      "lunch spots",
-      "cafes"
     ]
   },
   {
@@ -12841,23 +12674,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c672114f4ba437b872deb)",
-    "name": "Madame D",
-    "city": "London",
-    "subCategory": [
-      "late foods",
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "vegan",
-      "vegetarian",
-      "breakfast & brunch",
-      "traditional",
-      "sharing plates",
-      "bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c66e014f4ba437b872d86)",
     "name": "London Fields",
     "city": "London",
@@ -13027,14 +12843,10 @@
     "name": "Hawksmoor",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "restaurants",
-      "meat lovers",
-      "street foods",
-      "lunch spots",
-      "pizzas",
-      "vegetarian",
-      "sharing plates"
+      "meats",
+      "wine bars",
+      "casual drinks",
+      "group dining"
     ]
   },
   {
@@ -13209,7 +13021,7 @@
       "quick bites",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes",
       "food and drink"
@@ -13244,7 +13056,10 @@
     "name": "Goodman",
     "city": "London",
     "subCategory": [
-      "restaurants"
+      "fine dining",
+      "meats",
+      "gluten free",
+      "group dining"
     ]
   },
   {
@@ -13402,7 +13217,7 @@
     "city": "London",
     "subCategory": [
       "cafes",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots"
     ]
   },
@@ -13605,7 +13420,7 @@
       "quick bites",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes"
     ]
@@ -13680,7 +13495,7 @@
     "subCategory": [
       "quick bites",
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee ",
       "cafes"
@@ -13722,15 +13537,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c66c214f4ba437b872d56)",
-    "name": "Little Bay",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "traditional"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c670c14f4ba437b872dc9)",
     "name": "Magpie",
     "city": "London",
@@ -13740,7 +13546,7 @@
       "meat lovers",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cocktail bars"
     ]
   },
@@ -13758,7 +13564,7 @@
     "city": "London",
     "subCategory": [
       "cafes",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "vegan",
       "vegetarian"
@@ -13912,7 +13718,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "vegetarian",
       "cafes"
@@ -13970,8 +13776,9 @@
     "name": "Ippudo",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "quick bites"
+      "group dining",
+      "sharing plates",
+      "seafood"
     ]
   },
   {
@@ -14204,7 +14011,7 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "roasts"
     ]
   },
@@ -14223,10 +14030,12 @@
     "name": "Moo Cantina",
     "city": "London",
     "subCategory": [
-      "cheat day",
-      "restaurants",
-      "meat lovers",
-      "lunch spots"
+      "meats",
+      "gluten free",
+      "fine dining",
+      "group dining",
+      "beer",
+      "al fresco"
     ]
   },
   {
@@ -14295,7 +14104,7 @@
       "restaurants",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -14538,15 +14347,6 @@
     "subCategory": [
       "threads",
       "vintage stores"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c668a14f4ba437b872cf7)",
-    "name": "L'Entrepot",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "wine bars"
     ]
   },
   {
@@ -14818,16 +14618,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c66ae14f4ba437b872d32)",
-    "name": "Legs",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "traditional"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c673a14f4ba437b872e14)",
     "name": "Maze",
     "city": "London",
@@ -14872,16 +14662,6 @@
     "subCategory": [
       "roasts",
       "lunch spots"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c66d614f4ba437b872d76)",
-    "name": "London Bagel Co.",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "lunch spots",
-      "breakfast & brunch"
     ]
   },
   {
@@ -14983,7 +14763,7 @@
       "restaurants",
       "gourmet food",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "bakeries"
     ]
@@ -15077,7 +14857,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "artisan coffee",
@@ -15095,7 +14875,7 @@
       "clean eating",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "cocktail bars"
     ]
@@ -15151,7 +14931,7 @@
       "quick bites",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -15552,7 +15332,7 @@
     "subCategory": [
       "quick bites",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "vintage stores",
       "threads"
@@ -15586,7 +15366,7 @@
       "quick bites",
       "restaurants",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -15648,18 +15428,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c672e14f4ba437b872e00)",
-    "name": "Mason & Company",
-    "city": "London",
-    "subCategory": [
-      "bars",
-      "pubs",
-      "quick bites",
-      "street foods"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -15705,7 +15474,7 @@
     "subCategory": [
       "artisan coffee",
       "cafes",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -15714,7 +15483,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -15731,7 +15500,7 @@
       "sharing plates",
       "bars",
       "cocktail bars",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -15867,7 +15636,7 @@
     "subCategory": [
       "cafes",
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "quick bites"
     ]
   },
@@ -16353,15 +16122,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c68cc14f4ba437b873084)",
-    "name": "Sam Greenberg Vintage X Sharps",
-    "city": "London",
-    "subCategory": [
-      "threads",
-      "vintage stores"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c684814f4ba437b872fb4)",
     "name": "Potters Fields Paint by Flowers",
     "city": "London",
@@ -16404,7 +16164,7 @@
       "quick bites",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes"
     ]
@@ -16435,7 +16195,7 @@
     "city": "London",
     "subCategory": [
       "pubs",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -16445,7 +16205,7 @@
     "subCategory": [
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -16567,7 +16327,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -16606,7 +16366,7 @@
     "subCategory": [
       "cafes",
       "artisan coffee",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -16616,15 +16376,6 @@
     "subCategory": [
       "restaurants",
       "sharing plates"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c68a714f4ba437b87304b)",
-    "name": "Routes Coffee",
-    "city": "London",
-    "subCategory": [
-      "artisan coffee",
-      "cafes"
     ]
   },
   {
@@ -16662,7 +16413,7 @@
       "cheat day",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -16717,7 +16468,7 @@
     "city": "London",
     "subCategory": [
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "cafes"
@@ -16794,8 +16545,10 @@
     "name": "Temple of Seitan",
     "city": "London",
     "subCategory": [
+      "vegetarian",
       "vegan",
-      "vegetarian"
+      "gluten free",
+      "casual dining"
     ]
   },
   {
@@ -16816,7 +16569,7 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -16908,7 +16661,7 @@
     "city": "London",
     "subCategory": [
       "cheat day",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes"
     ]
   },
@@ -16962,7 +16715,7 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -17117,7 +16870,7 @@
       "meat lovers",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "burgers",
       "sharing plates"
@@ -17131,7 +16884,7 @@
       "quick bites",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "juice bars",
@@ -17497,7 +17250,7 @@
       "restaurants",
       "bars",
       "cocktail bars",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "cafes"
     ]
@@ -17531,7 +17284,7 @@
     "subCategory": [
       "restaurants",
       "quick bites",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -17612,7 +17365,7 @@
       "cheat day",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "burgers",
       "pubs",
@@ -17665,7 +17418,7 @@
       "cheat day",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -17712,7 +17465,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "juice bars"
     ]
   },
@@ -17725,7 +17478,7 @@
       "cheat day",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -17748,7 +17501,7 @@
       "restaurants",
       "gourmet food",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "bars"
     ]
@@ -17794,7 +17547,7 @@
       "restaurants",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -17828,7 +17581,7 @@
       "restaurants",
       "street foods",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes",
       "bars",
@@ -17913,7 +17666,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "juice bars"
     ]
   },
@@ -17979,14 +17732,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c692414f4ba437b87310e)",
-    "name": "Sosharu",
-    "city": "London",
-    "subCategory": [
-      "restaurants"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c698014f4ba437b8731a4)",
     "name": "The Bain Minion",
     "city": "London",
@@ -18004,7 +17749,7 @@
       "restaurants",
       "gourmet food",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "bakeries"
     ]
@@ -18019,15 +17764,6 @@
       "gardens",
       "parks",
       "religion"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c694014f4ba437b87313a)",
-    "name": "Stokey Bears",
-    "city": "London",
-    "subCategory": [
-      "burgers",
-      "quick bites"
     ]
   },
   {
@@ -18110,7 +17846,7 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bars"
     ]
   },
@@ -18172,7 +17908,7 @@
       "restaurants",
       "gourmet food",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "bakeries"
     ]
@@ -18235,7 +17971,7 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -18247,7 +17983,7 @@
       "restaurants",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "cafes",
       "bars",
@@ -18397,7 +18133,7 @@
     "subCategory": [
       "cheat day",
       "roasts",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "burgers",
       "pubs",
@@ -18412,7 +18148,7 @@
     "subCategory": [
       "artisan coffee",
       "cafes",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -18496,7 +18232,7 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -18515,7 +18251,7 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "rooftop bars",
       "views",
       "technology"
@@ -18543,7 +18279,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -18711,7 +18447,7 @@
       "roasts",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -18731,7 +18467,7 @@
     "subCategory": [
       "quick bites",
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -18747,14 +18483,6 @@
       "lunch spots",
       "vegan",
       "vegetarian"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c67bd14f4ba437b872ee8)",
-    "name": "Oliver Maki",
-    "city": "London",
-    "subCategory": [
-      "restaurants"
     ]
   },
   {
@@ -18812,7 +18540,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes"
     ]
@@ -18872,7 +18600,7 @@
     "subCategory": [
       "cafes",
       "restaurants",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -18964,7 +18692,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "cocktail bars",
       "bars",
@@ -19046,7 +18774,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "juice bars"
     ]
   },
@@ -19182,7 +18910,7 @@
       "pizzas",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "burgers",
       "artisan coffee",
@@ -19221,7 +18949,7 @@
     "city": "London",
     "subCategory": [
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "juice bars",
       "cafes"
     ]
@@ -19395,7 +19123,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee",
       "cafes",
@@ -19477,7 +19205,7 @@
     "subCategory": [
       "restaurants",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates"
     ]
   },
@@ -19518,7 +19246,7 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -19615,7 +19343,7 @@
       "restaurants",
       "quick bites",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -19627,20 +19355,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c69f314f4ba437b87325a)",
-    "name": "The French House",
-    "city": "London",
-    "subCategory": [
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "burgers",
-      "speakeasies",
-      "pubs",
-      "local haunts"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c698f14f4ba437b8731bf)",
     "name": "The Boaters Inn",
     "city": "London",
@@ -19649,7 +19363,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -19718,7 +19432,7 @@
       "meat lovers",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "markets"
     ]
   },
@@ -19756,23 +19470,11 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c68b414f4ba437b87305e)",
-    "name": "Ruby Rose",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "bakeries",
-      "lunch spots",
-      "sweet treats",
-      "cafes"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c699e14f4ba437b8731d8)",
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -19838,21 +19540,11 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c691a14f4ba437b8730fe)",
-    "name": "Soho Bikes",
-    "city": "London",
-    "subCategory": [
-      "sports",
-      "artisan coffee",
-      "hobby stores"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c69a014f4ba437b8731dd)",
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
     ]
   },
@@ -19934,24 +19626,8 @@
     "name": "The Breakfast Club",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cheat day"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c685f14f4ba437b872fd5)",
-    "name": "Proud East",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "cheat day",
-      "lunch spots",
-      "breakfast & brunch",
-      "artisan coffee",
-      "cafes",
-      "bars",
-      "cocktail bars",
-      "group thrills"
     ]
   },
   {
@@ -20002,13 +19678,14 @@
     "name": "Stepney City Farm",
     "city": "London",
     "subCategory": [
-      "artisan coffee",
+      "art",
+      "animals",
+      "nature",
       "cafes",
-      "tea rooms",
-      "child friendly",
-      "group thrills",
-      "urbex",
-      "zoos"
+      "photography",
+      "artisan coffee",
+      "food stores",
+      "flower shops"
     ]
   },
   {
@@ -20028,8 +19705,8 @@
       "restaurants",
       "street foods",
       "lunch spots",
-      "vegetarian & vegan",
-      "breakfast & brunch",
+      "vegetarian \\u0026 vegan",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -20118,7 +19795,7 @@
       "quick bites",
       "restaurants",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -20169,7 +19846,7 @@
       "restaurants",
       "gourmet food",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "bakeries"
     ]
@@ -20260,7 +19937,7 @@
       "restaurants",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "pubs"
     ]
@@ -20342,7 +20019,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "bars",
       "dancing"
@@ -20374,7 +20051,7 @@
       "gourmet food",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -20506,7 +20183,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "cafes"
     ]
@@ -20616,16 +20293,8 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c6a5414f4ba437b8732fc)",
-    "name": "The Nest",
-    "city": "London",
-    "subCategory": [
-      "clubs"
     ]
   },
   {
@@ -20658,7 +20327,7 @@
       "roasts",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -20700,7 +20369,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee"
     ]
@@ -20737,7 +20406,7 @@
       "quick bites",
       "restaurants",
       "meat lovers",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "burgers",
       "bars",
@@ -20768,7 +20437,7 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "cafes"
     ]
@@ -20780,7 +20449,7 @@
     "subCategory": [
       "restaurants",
       "gourmet food",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "cafes"
     ]
@@ -20840,15 +20509,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6a5114f4ba437b8732f7)",
-    "name": "The Natural Philosopher",
-    "city": "London",
-    "subCategory": [
-      "bars",
-      "cocktail bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6a2314f4ba437b8732ac)",
     "name": "The Ivy Market Grill",
     "city": "London",
@@ -20857,7 +20517,7 @@
       "gourmet food",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -20897,7 +20557,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "artisan coffee",
@@ -21004,7 +20664,7 @@
       "quick bites",
       "late foods",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "bars"
@@ -21045,17 +20705,6 @@
       "bars",
       "pubs",
       "curiosities"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c6a6d14f4ba437b873321)",
-    "name": "The Potato Project",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "cheat day",
-      "street foods",
-      "lunch spots"
     ]
   },
   {
@@ -21103,7 +20752,7 @@
       "meat lovers",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "sharing plates",
@@ -21143,7 +20792,7 @@
       "clean eating",
       "roasts",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -21260,7 +20909,7 @@
     "city": "London",
     "subCategory": [
       "cafes",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "quick bites",
       "lunch spots"
     ]
@@ -21270,7 +20919,7 @@
     "name": "The Zetter Townhouse",
     "city": "London",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "bars",
       "cocktail bars"
@@ -21302,15 +20951,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6aaa14f4ba437b873385)",
-    "name": "The Windsor Castle",
-    "city": "London",
-    "subCategory": [
-      "pubs",
-      "restaurants"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6aa014f4ba437b873377)",
     "name": "The Vault",
     "city": "London",
@@ -21338,7 +20978,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs"
     ]
@@ -21416,7 +21056,7 @@
       "quick bites",
       "vegan",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cocktail bars"
     ]
   },
@@ -21430,7 +21070,7 @@
       "gourmet food",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "burgers",
       "sharing plates",
@@ -21444,7 +21084,7 @@
     "city": "London",
     "subCategory": [
       "hobby shops",
-      "art & antiques"
+      "art \\u0026 antiques"
     ]
   },
   {
@@ -21454,7 +21094,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "bars",
       "cocktail bars",
@@ -21489,7 +21129,7 @@
     "city": "London",
     "subCategory": [
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -21505,14 +21145,6 @@
       "clean eating",
       "roasts",
       "cafes"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c6a8b14f4ba437b873351)",
-    "name": "The Sloane Brothers",
-    "city": "London",
-    "subCategory": [
-      "sweet treats"
     ]
   },
   {
@@ -21532,7 +21164,7 @@
     "subCategory": [
       "art",
       "art galleries",
-      "art & antiques"
+      "art \\u0026 antiques"
     ]
   },
   {
@@ -21541,7 +21173,7 @@
     "city": "London",
     "subCategory": [
       "restaurants",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "quick bites",
       "pizzas"
     ]
@@ -21566,7 +21198,7 @@
       "street food",
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       ""
     ]
@@ -21581,7 +21213,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -21595,7 +21227,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -21620,7 +21252,7 @@
       "roasts",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs",
       "local haunts"
@@ -21727,16 +21359,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6ae914f4ba437b8733e5)",
-    "name": "TUK",
-    "city": "London",
-    "subCategory": [
-      "threads",
-      "wellbeing",
-      "home stores"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6ae614f4ba437b8733e1)",
     "name": "Trullo",
     "city": "London",
@@ -21766,7 +21388,7 @@
     "city": "London",
     "subCategory": [
       "artisan coffee",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats"
     ]
   },
@@ -21843,7 +21465,7 @@
       "gourmet food",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "tea rooms",
@@ -21859,14 +21481,6 @@
     "subCategory": [
       "bars",
       "cocktail bars"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c6af414f4ba437b8733f6)",
-    "name": "University of London’s Institution of Education",
-    "city": "London",
-    "subCategory": [
-      "landmarks"
     ]
   },
   {
@@ -21938,8 +21552,9 @@
     "name": "Blue Fin Tuna",
     "city": "Birmingham",
     "subCategory": [
-      "art",
-      "street art"
+      "urbex",
+      "photography",
+      "art"
     ]
   },
   {
@@ -21952,7 +21567,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -21998,7 +21613,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -22080,7 +21695,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "smoothies",
       "artisan coffee",
@@ -22124,7 +21739,7 @@
       "artisan coffee",
       "cafes",
       "quick bites",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -22237,14 +21852,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6b0f14f4ba437b87341f)",
-    "name": "Vinoteca",
-    "city": "London",
-    "subCategory": [
-      "wine bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6b3814f4ba437b873451)",
     "name": "Whirled Cinema",
     "city": "London",
@@ -22347,7 +21954,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "cafes",
       "bars",
       "music venues",
@@ -22365,7 +21972,7 @@
       "meat lovers",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -22542,7 +22149,7 @@
     "subCategory": [
       "quick bites",
       "clean eating",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots"
     ]
   },
@@ -22581,7 +22188,7 @@
       "roasts",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "pubs",
       "local haunts"
@@ -22607,7 +22214,7 @@
       "burgers",
       "bars",
       "cocktail bars",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -22636,7 +22243,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -22663,8 +22270,9 @@
     "name": "Broken Fingaz Street Art",
     "city": "Birmingham",
     "subCategory": [
-      "art",
-      "street art"
+      "urbex",
+      "photography",
+      "art"
     ]
   },
   {
@@ -22732,7 +22340,7 @@
       "quick bites",
       "cheat day",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "artisan coffee",
       "cafes",
@@ -22837,7 +22445,7 @@
     "subCategory": [
       "restaurants",
       "meat lovers",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -22858,16 +22466,6 @@
       "cafes",
       "food and drink",
       "artisan coffee"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a7c6c2014f4ba437b873656)",
-    "name": "Mughal e Azam",
-    "city": "Birmingham",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "lunch spots"
     ]
   },
   {
@@ -22898,7 +22496,8 @@
     "name": "Birmingham Back to Backs",
     "city": "Birmingham",
     "subCategory": [
-      "landmarks"
+      "landmarks",
+      "photography"
     ]
   },
   {
@@ -22907,7 +22506,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -22920,7 +22520,7 @@
       "gourmet food",
       "lunch spots",
       "pizzas",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "sharing plates"
     ]
@@ -22942,7 +22542,6 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "art galleries",
       "photography"
     ]
   },
@@ -23063,7 +22662,7 @@
       "late foods",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "vegetarian",
       "vegan",
       "sharing plates",
@@ -23080,8 +22679,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art",
-      "views"
+      "urbex",
+      "photography"
     ]
   },
   {
@@ -23092,7 +22691,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bakeries",
       "sweet treats",
       "artisan coffee",
@@ -23105,7 +22704,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -23138,7 +22738,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -23226,7 +22827,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "cafes",
       "music venues",
@@ -23238,9 +22839,13 @@
     "name": "The Jam House",
     "city": "Birmingham",
     "subCategory": [
-      "music venues",
-      "jazz clubs",
-      "restaurants"
+      "live music",
+      "fine dining",
+      "late night",
+      "landmarks",
+      "group dining",
+      "nightclubs",
+      "casual dining"
     ]
   },
   {
@@ -23252,7 +22857,7 @@
       "cheat day",
       "lunch spots",
       "burgers",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -23267,23 +22872,13 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6c4d14f4ba437b87369e)",
-    "name": "40 23 Mediterranean Food",
-    "city": "Birmingham",
-    "subCategory": [
-      "quick bites",
-      "lunch spots",
-      "restaurants",
-      "traditional"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6cd914f4ba437b873778)",
     "name": "Philth Female Portrait on Hack Street",
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -23305,7 +22900,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -23333,11 +22929,10 @@
     "name": "The Glee",
     "city": "Birmingham",
     "subCategory": [
-      "comedy clubs",
-      "performing arts venues",
-      "quick bites",
-      "lunch spots",
-      "sharing plates"
+      "comedy",
+      "live music",
+      "late night",
+      "casual dining"
     ]
   },
   {
@@ -23348,7 +22943,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "bakery",
       "cafes"
     ]
@@ -23372,7 +22967,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee"
     ]
   },
@@ -23384,7 +22979,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "sweet treats"
     ]
@@ -23406,10 +23001,10 @@
     "name": "The Sunflower Lounge",
     "city": "Birmingham",
     "subCategory": [
-      "bars",
-      "clubs",
-      "dancing",
-      "music venues"
+      "live music",
+      "pubs",
+      "comedy",
+      "late night"
     ]
   },
   {
@@ -23448,7 +23043,7 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography"
     ]
   },
   {
@@ -23456,7 +23051,7 @@
     "name": "Cherry Reds",
     "city": "Birmingham",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "quick bites",
       "quick bites",
       "sweet treats"
@@ -23604,7 +23199,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "roasts",
       "burgers",
       "cheat day",
@@ -23629,7 +23224,7 @@
       "cheat day",
       "roasts",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -23645,12 +23240,11 @@
     "name": "Mac Birmingham",
     "city": "Birmingham",
     "subCategory": [
-      "art",
-      "art galleries",
-      "comedy clubs",
-      "cinemas",
-      "performing arts venues",
-      "theatres"
+      "theatres",
+      "music",
+      "comedy",
+      "film",
+      "live music"
     ]
   },
   {
@@ -23670,7 +23264,6 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "art galleries",
       "photography"
     ]
   },
@@ -23680,7 +23273,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -23778,8 +23372,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "art galleries",
-      "photography"
+      "photography",
+      "hobby shops"
     ]
   },
   {
@@ -23788,7 +23382,7 @@
     "city": "Birmingham",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "cafes"
     ]
@@ -23819,9 +23413,10 @@
     "name": "Curzon Street Station",
     "city": "Birmingham",
     "subCategory": [
-      "landmarks",
       "photography",
-      "urbex"
+      "architecture",
+      "landmarks",
+      "museums"
     ]
   },
   {
@@ -23919,7 +23514,7 @@
       "cheat day",
       "meat lovers",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -23941,7 +23536,7 @@
       "quick bites",
       "cheat day",
       "meat lovers",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers"
     ]
   },
@@ -23955,7 +23550,7 @@
       "gourmet food",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "music venue"
     ]
@@ -23986,7 +23581,7 @@
     "city": "Birmingham",
     "subCategory": [
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates",
       "cafes"
     ]
@@ -24007,10 +23602,10 @@
     "name": "Urban Village",
     "city": "Birmingham",
     "subCategory": [
-      "bars",
-      "clubs",
-      "dancing",
-      "music venues"
+      "vintage shops",
+      "hobby shops",
+      "home stores",
+      "fashion"
     ]
   },
   {
@@ -24061,9 +23656,11 @@
     "name": "The Flapper",
     "city": "Birmingham",
     "subCategory": [
-      "bars",
+      "live music",
+      "beer",
       "pubs",
-      "music venues"
+      "late night",
+      "al fresco"
     ]
   },
   {
@@ -24072,7 +23669,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -24094,7 +23692,7 @@
       "quick bites",
       "cheat day",
       "street foods",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee"
     ]
   },
@@ -24127,7 +23725,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "bars",
       "pubs",
@@ -24165,7 +23763,7 @@
     "name": "Library of Birmingham",
     "city": "Birmingham",
     "subCategory": [
-      "libraries"
+      "architecture"
     ]
   },
   {
@@ -24301,7 +23899,7 @@
       "quick bites",
       "bakeries",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee"
     ]
   },
@@ -24311,7 +23909,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -24331,7 +23930,7 @@
     "name": "Saint Kitchen",
     "city": "Birmingham",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "cafes",
       "gourmet food"
@@ -24358,7 +23957,7 @@
       "lunch spots",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee"
     ]
@@ -24368,9 +23967,12 @@
     "name": "Inn on the Green",
     "city": "Birmingham",
     "subCategory": [
-      "bars",
+      "live music",
+      "craft drinks",
+      "late night",
+      "beer",
       "pubs",
-      "music venues"
+      "no frills"
     ]
   },
   {
@@ -24390,7 +23992,10 @@
     "name": "Thinktank",
     "city": "Birmingham",
     "subCategory": [
-      "museums"
+      "museums",
+      "photography",
+      "theatres",
+      "nature"
     ]
   },
   {
@@ -24421,11 +24026,10 @@
     "name": "Club PST",
     "city": "Birmingham",
     "subCategory": [
-      "bars",
-      "clubs",
-      "beer gardens",
-      "dancing",
-      "music venues"
+      "live music",
+      "late night",
+      "views",
+      "nightclubs"
     ]
   },
   {
@@ -24433,7 +24037,10 @@
     "name": "Ikon Gallery",
     "city": "Birmingham",
     "subCategory": [
-      "museums"
+      "art",
+      "photography",
+      "book shops",
+      "hobby shops"
     ]
   },
   {
@@ -24486,7 +24093,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee",
       "cafes"
     ]
@@ -24549,7 +24156,7 @@
     "name": "Leverton and Halls",
     "city": "Birmingham",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch",
       "quick bites",
       "vegetarian",
@@ -24583,6 +24190,8 @@
     "name": "Joseph Chamberlain Memorial Clock Tower",
     "city": "Birmingham",
     "subCategory": [
+      "photography",
+      "views",
       "landmarks"
     ]
   },
@@ -24603,7 +24212,7 @@
       "cheat day",
       "meat lovers",
       "burgers",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -24657,7 +24266,7 @@
     "subCategory": [
       "burgers",
       "roasts",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "craft beer",
       "pubs"
@@ -24705,7 +24314,8 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -24749,7 +24359,7 @@
       "restaurants",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -24759,7 +24369,7 @@
     "subCategory": [
       "cheat day",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "roasts",
       "music venues"
@@ -24773,7 +24383,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "sweet treats"
     ]
@@ -24807,7 +24417,7 @@
       "vegetarian",
       "vegan",
       "burgers",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sharing plates"
     ]
   },
@@ -24865,22 +24475,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a7c6cd814f4ba437b873776)",
-    "name": "Peel and Stone",
-    "city": "Birmingham",
-    "subCategory": [
-      "quick bites",
-      "bakeries",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "breakfast & brunch",
-      "sweet treats",
-      "cafes",
-      "art"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6cd314f4ba437b87376d)",
     "name": "Old Rectory Farm Tea Rooms",
     "city": "Birmingham",
@@ -24897,7 +24491,6 @@
     "city": "Birmingham",
     "subCategory": [
       "art",
-      "art galleries",
       "photography"
     ]
   },
@@ -25004,7 +24597,7 @@
     "subCategory": [
       "cafes",
       "restaurants",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -25025,7 +24618,7 @@
       "late food",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "bars",
       "pubs"
@@ -25102,14 +24695,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a93f41835427db22cf28040)",
-    "name": "Cirque le Soir",
-    "city": "London",
-    "subCategory": [
-      "clubs"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93f35d35427db22cf25427)",
     "name": "Borough Kitchen",
     "city": "London",
@@ -25137,7 +24722,7 @@
       "lunch spots",
       "pizzas",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee"
     ]
@@ -25147,12 +24732,10 @@
     "name": "The Old Joint Stock",
     "city": "Birmingham",
     "subCategory": [
-      "performing arts venues",
+      "pubs",
+      "casual dining",
       "theatres",
-      "roasts",
-      "quick bites",
-      "breakfast & brunch",
-      "traditional"
+      "beer"
     ]
   },
   {
@@ -25321,23 +24904,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a93f41535427db22cf27fb5)",
-    "name": "Circus",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "sharing plates",
-      "bars",
-      "cocktail bars",
-      "speakeasies",
-      "music venues",
-      "performing arts venues",
-      "clubs",
-      "dancing"
-    ]
-  },
-  {
     "_id": "ObjectId(5a7c6c4f14f4ba437b8736a1)",
     "name": "40 St Pauls",
     "city": "Birmingham",
@@ -25404,7 +24970,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "tea rooms",
       "cafes"
@@ -25598,14 +25164,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a9fe6a9f69e0356673bed62)",
-    "name": "Kojiterie",
-    "city": "Hohenstaufenstraße 39-40, 10779 Berlin, Germany",
-    "subCategory": [
-      "Shops"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93f65235427db22cf30d19)",
     "name": "Isambard's Cycles",
     "city": "London",
@@ -25658,14 +25216,6 @@
       "curiosities",
       "street art",
       "art"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a9be5bb2e23931eeefbb1f3)",
-    "name": "Tottenham Road",
-    "city": "12 Adeline Pl, Fitzrovia, London WC1B 3AJ, UK",
-    "subCategory": [
-      "Food"
     ]
   },
   {
@@ -25982,14 +25532,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5aa006c7609d276ee1c4785a)",
-    "name": "Macba",
-    "city": "Carrer Àngels, 5, 08001 Barcelona, Spain",
-    "subCategory": [
-      "Outdoors"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93f4c935427db22cf2add7)",
     "name": "Dirty Burger",
     "city": "London",
@@ -26025,16 +25567,6 @@
     "city": "London",
     "subCategory": [
       "bookstores"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a93f5cf35427db22cf2ef1d)",
-    "name": "Gul & Sepoy",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "quick bites",
-      "lunch spots"
     ]
   },
   {
@@ -26082,17 +25614,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a93f9b835427db22cf3dcd8)",
-    "name": "Spielburger",
-    "city": "London",
-    "subCategory": [
-      "cheat day",
-      "restaurants",
-      "lunch spots",
-      "burgers"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93fbc735427db22cf4582e)",
     "name": "Vagabond Wines",
     "city": "London",
@@ -26100,14 +25621,6 @@
       "sharing plates",
       "bars",
       "wine bars"
-    ]
-  },
-  {
-    "_id": "ObjectId(5aa50a02bb4cec2c1bf9ef90)",
-    "name": "Loretta",
-    "city": "Oderberger Str. 28, 10435 Berlin, Germany",
-    "subCategory": [
-      "Shops"
     ]
   },
   {
@@ -26119,7 +25632,7 @@
       "street foods",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -26176,22 +25689,6 @@
     "city": "London",
     "subCategory": [
       "performing arts venues"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a9cb59971521d0c8a6e139e)",
-    "name": "Shrewsbury",
-    "city": "106 St Michael's St, Shrewsbury SY1 2EU, UK",
-    "subCategory": [
-      "Food"
-    ]
-  },
-  {
-    "_id": "ObjectId(5a9da43680c2041b35ee5c4e)",
-    "name": "Fritz Meyer Weg",
-    "city": "Fritz-Meyer-Weg 55, 81925 München, Germany",
-    "subCategory": [
-      "Drinks"
     ]
   },
   {
@@ -26407,14 +25904,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a99ca1cbe387071b805d790)",
-    "name": "Hendon",
-    "city": "43 St Davids Cl, Wembley HA9 9BT, UK",
-    "subCategory": [
-      "Food"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93f61535427db22cf2ff0e)",
     "name": "Honest Jon's Records",
     "city": "London",
@@ -26498,14 +25987,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5aa50b93bb4cec2c1bf9ef93)",
-    "name": "Fleur De Sel",
-    "city": "Oderberger Str. 12, 10435 Berlin, Germany",
-    "subCategory": [
-      "Drinks"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93f61835427db22cf2ffad)",
     "name": "Hop Burns & Black",
     "city": "London",
@@ -26560,14 +26041,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5a93f83535427db22cf38139)",
-    "name": "Ooh-La-La",
-    "city": "London",
-    "subCategory": [
-      "antiques"
-    ]
-  },
-  {
     "_id": "ObjectId(5a93fa0e35427db22cf3f1d9)",
     "name": "Thames Barrier",
     "city": "London",
@@ -26580,16 +26053,15 @@
     "name": "The Clapton Hart",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegetarian",
-      "traditional",
-      "burgers",
       "pubs",
-      "beer gardens"
+      "al fresco",
+      "live music",
+      "group dining",
+      "craft drinks",
+      "vegan",
+      "vegetarian",
+      "late night",
+      "casual dining"
     ]
   },
   {
@@ -26597,16 +26069,12 @@
     "name": "The Crooked Billet",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegetarian",
-      "traditional",
-      "burgers",
       "pubs",
-      "beer gardens"
+      "al fresco",
+      "beer",
+      "live music",
+      "casual dining",
+      "late night"
     ]
   },
   {
@@ -26614,32 +26082,13 @@
     "name": "The Adam and Eve",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
+      "beer",
+      "group dining",
       "vegetarian",
-      "traditional",
-      "burgers",
+      "curiosities",
       "pubs",
-      "beer gardens"
-    ]
-  },
-  {
-    "_id": "ObjectId(5b4cb95fd64813ebac8dcd18)",
-    "name": "The Windsor Castle",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegetarian",
-      "traditional",
-      "burgers",
-      "pubs"
+      "casual dining",
+      "no frills"
     ]
   },
   {
@@ -26647,17 +26096,13 @@
     "name": "The Star by Hackney Downs",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegetarian",
-      "traditional",
-      "burgers",
+      "group dining",
       "pubs",
-      "vegetarian",
-      "beer gardens"
+      "live music",
+      "al fresco",
+      "craft drinks",
+      "sharing plates",
+      "casual dining"
     ]
   },
   {
@@ -26665,15 +26110,14 @@
     "name": "The Kenton",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
+      "beer",
+      "pubs",
+      "live music",
+      "group dining",
+      "sharing plates",
+      "no frills",
       "vegetarian",
-      "traditional",
-      "burgers",
-      "pubs"
+      "late night"
     ]
   },
   {
@@ -26681,12 +26125,10 @@
     "name": "Hackney Bureau",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
-      "artisan coffee",
-      "cafes"
+      "vegan",
+      "cafes",
+      "casual dining"
     ]
   },
   {
@@ -26694,12 +26136,10 @@
     "name": "Fed By Water",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "clean eating",
-      "lunch spots",
-      "pizzas",
+      "vegetarian",
       "vegan",
-      "vegetarian"
+      "gluten free",
+      "group dining"
     ]
   },
   {
@@ -26707,11 +26147,12 @@
     "name": "Black Cat Cafe",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "clean eating",
-      "lunch spots",
+      "sweet treats",
+      "cafes",
       "vegan",
-      "vegetarian"
+      "quick bites",
+      "book shops",
+      "food stores"
     ]
   },
   {
@@ -26719,17 +26160,15 @@
     "name": "Gallery Cafe",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "breakfast & brunch",
-      "sweet treats",
-      "artisan coffee",
       "cafes",
+      "vegetarian",
+      "vegan",
+      "gluten free",
+      "film",
+      "live music",
       "art",
-      "music venues",
-      "performing arts venues"
+      "photography",
+      "al fresco"
     ]
   },
   {
@@ -26737,17 +26176,17 @@
     "name": "The Vincent",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "bakeries",
-      "lunch spots",
-      "vegan",
       "vegetarian",
-      "breakfast & brunch",
-      "sweet treats",
-      "bars",
-      "pubs",
-      "beer garden"
+      "artisan coffee",
+      "group dining",
+      "casual drinks",
+      "pop-ups",
+      "film",
+      "photography",
+      "vegan",
+      "gluten free",
+      "craft drinks",
+      "live music"
     ]
   },
   {
@@ -26755,11 +26194,13 @@
     "name": "Bussey Beer Garden",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "street foods",
-      "bars",
-      "rooftop bars",
-      "views"
+      "al fresco",
+      "group dining",
+      "meats",
+      "beer",
+      "views",
+      "craft drinks",
+      "late night"
     ]
   },
   {
@@ -26767,10 +26208,12 @@
     "name": "Woodlands",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "lunch spots",
+      "wine bars",
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "sharing plates"
     ]
   },
   {
@@ -26778,10 +26221,12 @@
     "name": "Woodlands",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "lunch spots",
+      "wine bars",
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "sharing plates"
     ]
   },
   {
@@ -26789,18 +26234,13 @@
     "name": "White Horse",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "restaurants",
-      "gourmet food",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "traditional",
       "pubs",
-      "beer gardens"
+      "late night",
+      "live music",
+      "group dining",
+      "sharing plates",
+      "no frills",
+      "craft drinks"
     ]
   },
   {
@@ -26808,17 +26248,15 @@
     "name": "The Montpelier",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "restaurants",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "traditional",
       "pubs",
-      "beer gardens"
+      "wine bars",
+      "live music",
+      "group dining",
+      "film",
+      "al fresco",
+      "seafood",
+      "sharing plates",
+      "artisan coffee"
     ]
   },
   {
@@ -26826,18 +26264,14 @@
     "name": "The Rye Pub",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "restaurants",
-      "gourmet food",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "vegan",
-      "vegetarian",
-      "traditional",
       "pubs",
-      "beer gardens"
+      "late night",
+      "live music",
+      "group dining",
+      "al fresco",
+      "no frills",
+      "sharing plates",
+      "speakeasies"
     ]
   },
   {
@@ -26845,15 +26279,10 @@
     "name": "The Clock House",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "restaurants",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "traditional",
       "pubs",
-      "beer gardens"
+      "group dining",
+      "sharing plates",
+      "craft drinks"
     ]
   },
   {
@@ -26861,10 +26290,13 @@
     "name": "Woodlands",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "lunch spots",
+      "wine bars",
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "sharing plates",
+      "street food"
     ]
   },
   {
@@ -26872,19 +26304,12 @@
     "name": "Prince of Peckham",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "street foods",
-      "lunch spots",
-      "traditional",
-      "burgers",
-      "clubs",
       "pubs",
-      "beer gardens",
-      "local haunts",
-      "dancing"
+      "live music",
+      "group dining",
+      "casual dining",
+      "casual drinks",
+      "late night"
     ]
   },
   {
@@ -26892,17 +26317,15 @@
     "name": "John the Unicorn",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "traditional",
-      "burgers",
-      "bars",
-      "clubs",
+      "beer",
       "pubs",
-      "dancing"
+      "live music",
+      "casual drinks",
+      "group dining",
+      "speakeasies",
+      "curiosities",
+      "late night",
+      "lgbtq+"
     ]
   },
   {
@@ -26910,12 +26333,8 @@
     "name": "Mission Breakout",
     "city": "London",
     "subCategory": [
-      "arcades",
       "sports",
-      "urbex",
-      "curiosities",
-      "group thrills",
-      "child friendly"
+      "landmarks"
     ]
   },
   {
@@ -26923,13 +26342,9 @@
     "name": "Mildred's",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "lunch spots",
-      "vegan",
       "vegetarian",
-      "sweet treats"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -26937,13 +26352,9 @@
     "name": "Mildred's",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "lunch spots",
-      "vegan",
       "vegetarian",
-      "sweet treats"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -26951,13 +26362,9 @@
     "name": "Mildred's",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "lunch spots",
-      "vegan",
       "vegetarian",
-      "sweet treats"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -26965,13 +26372,9 @@
     "name": "Mildred's",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "lunch spots",
-      "vegan",
       "vegetarian",
-      "sweet treats"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -26979,12 +26382,14 @@
     "name": "Peckham Bazaar",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "clean eating",
-      "lunch spots",
-      "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten free",
+      "wine bars",
+      "group dining",
+      "casual dining",
+      "sharing plates",
+      "no frills",
+      "meats"
     ]
   },
   {
@@ -26992,12 +26397,11 @@
     "name": "Dou Dou Restaurant",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "restaurants",
-      "lunch spots",
+      "vegetarian",
       "vegan",
-      "vegetarian"
+      "casual dining",
+      "lgbtq+",
+      "late night"
     ]
   },
   {
@@ -27005,11 +26409,9 @@
     "name": "Kentish Town City Farm",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "photography"
     ]
   },
   {
@@ -27017,11 +26419,10 @@
     "name": "Deen City Farm",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "cafes",
+      "photography"
     ]
   },
   {
@@ -27029,11 +26430,10 @@
     "name": "Hounslow Urban Farm",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "photography",
+      "cafes"
     ]
   },
   {
@@ -27041,9 +26441,10 @@
     "name": "Manna",
     "city": "London",
     "subCategory": [
-      "restaurants",
+      "wine bars",
       "vegan",
-      "vegetarian"
+      "vegetarian",
+      "gluten free"
     ]
   },
   {
@@ -27051,11 +26452,13 @@
     "name": "Vauxhall City Farms",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "cafes",
+      "music",
+      "photography",
+      "hobby shops",
+      "toy shops"
     ]
   },
   {
@@ -27063,11 +26466,10 @@
     "name": "Surrey Docks Farm",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "photography",
+      "food stores"
     ]
   },
   {
@@ -27075,11 +26477,9 @@
     "name": "Brooks Farm",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "photography"
     ]
   },
   {
@@ -27087,11 +26487,10 @@
     "name": "Woodlands Farm Trust",
     "city": "London",
     "subCategory": [
-      "zoos",
-      "urbex",
-      "group thrills",
-      "wellbeing",
-      "child friendly"
+      "animals",
+      "nature",
+      "landmarks",
+      "photography"
     ]
   },
   {
@@ -27099,17 +26498,9 @@
     "name": "Arlo and Moe",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "cheat day",
-      "clean eating",
-      "lunch spots",
-      "vegan",
+      "cafes",
       "vegetarian",
-      "breakfast & brunch",
-      "sweet treats",
-      "traditional",
-      "artisan coffee",
-      "cafes"
+      "artisan coffee"
     ]
   },
   {
@@ -27118,7 +26509,8 @@
     "city": "London",
     "subCategory": [
       "art",
-      "street art"
+      "photography",
+      "landmarks"
     ]
   },
   {
@@ -27126,12 +26518,9 @@
     "name": "What the Pitta!",
     "city": "London",
     "subCategory": [
-      "vegan",
       "vegetarian",
-      "quick bites",
-      "street foods",
-      "lunch spots",
-      "cheat day"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -27139,12 +26528,9 @@
     "name": "What the Pitta!",
     "city": "London",
     "subCategory": [
-      "vegan",
       "vegetarian",
-      "quick bites",
-      "street foods",
-      "lunch spots",
-      "cheat day"
+      "vegan",
+      "gluten free"
     ]
   },
   {
@@ -27152,11 +26538,12 @@
     "name": "Trinity Arms",
     "city": "London",
     "subCategory": [
-      "roasts",
       "pubs",
-      "beer gardens",
-      "rooftop bars",
-      "restaurants"
+      "late night",
+      "group dining",
+      "al fresco",
+      "live music",
+      "casual dining"
     ]
   },
   {
@@ -27164,8 +26551,12 @@
     "name": "Ms. Cupcake",
     "city": "London",
     "subCategory": [
+      "bakeries",
+      "sweet treats",
       "vegan",
-      "sweet treats"
+      "vegetarian",
+      "gluten free",
+      "group dining"
     ]
   },
   {
@@ -27173,11 +26564,11 @@
     "name": "The Queens Head",
     "city": "London",
     "subCategory": [
-      "roasts",
+      "group dining",
+      "beer",
       "pubs",
-      "bars",
-      "restaurants",
-      "beer gardens"
+      "gluten free",
+      "no frills"
     ]
   },
   {
@@ -27185,10 +26576,10 @@
     "name": "White Horse",
     "city": "London",
     "subCategory": [
-      "roasts",
       "pubs",
-      "bars",
-      "restaurants"
+      "group dining",
+      "late night",
+      "live music"
     ]
   },
   {
@@ -27196,11 +26587,10 @@
     "name": "Oracles Organics",
     "city": "London",
     "subCategory": [
-      "juice bars",
-      "smoothies",
       "clean eating",
-      "vegetarian",
-      "vegan"
+      "juice bars",
+      "vegan",
+      "food stores"
     ]
   },
   {
@@ -27227,9 +26617,9 @@
     "city": "London",
     "subCategory": [
       "vegan",
-      "cafes",
-      "restaurants",
-      "clean eating"
+      "gluten free",
+      "clean eating",
+      "vegetarian"
     ]
   },
   {
@@ -27424,7 +26814,7 @@
       "bakeries",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -27466,20 +26856,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5b4cd405d64813ebac965f61)",
-    "name": "Arepa & Co",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "meat lovers",
-      "roasts",
-      "lunch spots",
-      "breakfast & brunch",
-      "bars",
-      "cocktail bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5b4cd41cd64813ebac966680)",
     "name": "Bao",
     "city": "London",
@@ -27508,7 +26884,7 @@
       "lunch spots",
       "street foods",
       "vegetarian",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -27519,7 +26895,7 @@
       "restaurants",
       "clean eating",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -27615,7 +26991,7 @@
       "late foods",
       "cheat day",
       "roasts",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "burgers",
       "cafes",
       "bars",
@@ -27648,7 +27024,7 @@
       "cheat day",
       "bakeries",
       "street foods",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "food and drink"
     ]
   },
@@ -27928,16 +27304,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5b4df106d64813ebacf33600)",
-    "name": "Burger House",
-    "city": "Munich",
-    "subCategory": [
-      "burgers",
-      "cheat day",
-      "meat lovers"
-    ]
-  },
-  {
     "_id": "ObjectId(5b4df10ed64813ebacf337dc)",
     "name": "Burley Fisher Books",
     "city": "London",
@@ -27961,7 +27327,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional"
     ]
   },
@@ -28044,8 +27410,11 @@
     "name": "Cinnamon Culture",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "traditional"
+      "vegetarian",
+      "casual dining",
+      "group dining",
+      "al fresco",
+      "casual drinks"
     ]
   },
   {
@@ -28063,14 +27432,6 @@
       "performing arts venues",
       "clubs",
       "dancing"
-    ]
-  },
-  {
-    "_id": "ObjectId(5b4df1a5d64813ebacf35e7b)",
-    "name": "Cirque le Soir",
-    "city": "London",
-    "subCategory": [
-      "clubs"
     ]
   },
   {
@@ -28144,19 +27505,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5b4df20dd64813ebacf3797c)",
-    "name": "Crazy Bear Thai Restaurant",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "lunch spots",
-      "bars",
-      "cocktail bars",
-      "wine bars"
-    ]
-  },
-  {
     "_id": "ObjectId(5b4df213d64813ebacf37b3a)",
     "name": "Crown & Anchor",
     "city": "London",
@@ -28173,7 +27521,7 @@
     "subCategory": [
       "quick bites",
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee",
       "cafes"
@@ -28272,7 +27620,7 @@
       "clean eating",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -28294,17 +27642,6 @@
       "restaurants",
       "lunch spots",
       "traditional"
-    ]
-  },
-  {
-    "_id": "ObjectId(5b4df716d64813ebacf4c889)",
-    "name": "Gold Mine",
-    "city": "London",
-    "subCategory": [
-      "restaurants",
-      "lunch spots",
-      "traditional",
-      "sharing plates"
     ]
   },
   {
@@ -28397,21 +27734,13 @@
     "name": "Humble Grape",
     "city": "London",
     "subCategory": [
-      "quick bites",
-      "bars",
-      "wine bars"
-    ]
-  },
-  {
-    "_id": "ObjectId(5b4df7ccd64813ebacf4fbd3)",
-    "name": "Hummus Bros",
-    "city": "London",
-    "subCategory": [
-      "quick bites",
-      "restaurants",
-      "street foods",
-      "lunch spots",
-      "vegetarian"
+      "wine bars",
+      "group dining",
+      "late night",
+      "vegetarian",
+      "live music",
+      "views",
+      "sharing plates"
     ]
   },
   {
@@ -28525,7 +27854,7 @@
       "pizzas",
       "vegan",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "traditional",
       "burgers",
@@ -28540,7 +27869,7 @@
       "quick bites",
       "restaurants",
       "lunch spots",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -28642,10 +27971,15 @@
     "name": "Lyric Bar & Grill",
     "city": "London",
     "subCategory": [
-      "bars",
-      "cocktail bars",
-      "rooftop bars",
-      "restaurants"
+      "sharing plates",
+      "group dining",
+      "meats",
+      "quick bites",
+      "casual dining",
+      "al fresco",
+      "clean eating",
+      "casual drinks",
+      "cafes"
     ]
   },
   {
@@ -28667,7 +28001,7 @@
       "quick bites",
       "bakeries",
       "street foods",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee"
     ]
@@ -28710,7 +28044,7 @@
     "name": "Mi Piace",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "quick bites",
       "sweet treats",
@@ -28722,7 +28056,7 @@
     "name": "Mi Piace",
     "city": "Munich",
     "subCategory": [
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "lunch spots",
       "quick bites",
       "sweet treats",
@@ -28734,9 +28068,12 @@
     "name": "Michael Nadra",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food",
-      "meat lovers"
+      "vegan",
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "al fresco",
+      "fine dining"
     ]
   },
   {
@@ -28833,8 +28170,11 @@
     "name": "Pied à Terre",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "gourmet food"
+      "vegan",
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "fine dining"
     ]
   },
   {
@@ -28912,11 +28252,10 @@
     "name": "Retsina",
     "city": "London",
     "subCategory": [
-      "restaurants",
-      "meat lovers",
-      "lunch spots",
-      "traditional",
-      "sharing plates"
+      "vegan",
+      "vegetarian",
+      "casual dining",
+      "gluten free"
     ]
   },
   {
@@ -28957,7 +28296,7 @@
       "restaurants",
       "roasts",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "traditional",
       "sharing plates",
       "cafes",
@@ -28973,7 +28312,7 @@
     "subCategory": [
       "cafes",
       "artisan coffee",
-      "breakfast & brunch"
+      "breakfast \\u0026 brunch"
     ]
   },
   {
@@ -28990,7 +28329,7 @@
     "city": "London",
     "subCategory": [
       "quick bites",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes",
@@ -29094,7 +28433,7 @@
       "quick bites",
       "cheat day",
       "bakeries",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "sweet treats",
       "artisan coffee",
       "cafes"
@@ -29274,8 +28613,14 @@
     "city": "London",
     "subCategory": [
       "pubs",
-      "rooftop bars",
-      "traditional"
+      "vegetarian",
+      "gluten free",
+      "group dining",
+      "al fresco",
+      "views",
+      "casual dining",
+      "beer",
+      "late night"
     ]
   },
   {
@@ -29332,7 +28677,7 @@
     "subCategory": [
       "quick bites",
       "lunch spots",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "smoothies",
       "artisan coffee"
     ]
@@ -29364,11 +28709,11 @@
     "name": "The Lock Tavern",
     "city": "London",
     "subCategory": [
+      "beer",
       "pubs",
-      "bar",
-      "rooftop bars",
-      "music venues",
-      "traditional"
+      "al fresco",
+      "casual dining",
+      "live music"
     ]
   },
   {
@@ -29528,7 +28873,7 @@
       "quick bites",
       "lunch spots",
       "vegetarian",
-      "breakfast & brunch",
+      "breakfast \\u0026 brunch",
       "artisan coffee"
     ]
   },
@@ -29907,7 +29252,7 @@
     "city": "San Francisco",
     "subCategory": [
       "restaurants",
-      " breakfast & brunch"
+      " breakfast \\u0026 brunch"
     ]
   },
   {
@@ -30000,14 +29345,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5b9159077928d192efd04548)",
-    "name": "mira mira",
-    "city": "San Francisco",
-    "subCategory": [
-      "design stores"
-    ]
-  },
-  {
     "_id": "ObjectId(5b9159087928d192efd045b2)",
     "name": "Wallflower",
     "city": "San Francisco",
@@ -30085,7 +29422,9 @@
     "name": "Artillery AG",
     "city": "San Francisco",
     "subCategory": [
-      "art galleries"
+      "art",
+      "photography",
+      "urbex"
     ]
   },
   {
@@ -30178,14 +29517,6 @@
     ]
   },
   {
-    "_id": "ObjectId(5b91591a7928d192efd04dfc)",
-    "name": "Slate",
-    "city": "San Francisco",
-    "subCategory": [
-      "clubs"
-    ]
-  },
-  {
     "_id": "ObjectId(5b91591b7928d192efd04e3e)",
     "name": "Franklin Square",
     "city": "San Francisco",
@@ -30231,7 +29562,8 @@
     "name": "Gracias Madre",
     "city": "San Francisco",
     "subCategory": [
-      "restaurants"
+      "vegan",
+      "vegetarian"
     ]
   },
   {
@@ -30266,6 +29598,416 @@
     "city": "San Francisco",
     "subCategory": [
       "architecture"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4354abd04df0b9da10f21)",
+    "name": "Wellcome Library Reading Room",
+    "city": "London",
+    "subCategory": [
+      "libraries"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4354dbd04df0b9da1116b)",
+    "name": "Virgin Mary Mural by Run",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4354ebd04df0b9da11267)",
+    "name": "Victoria Inn Mural by ROA",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4354fbd04df0b9da1132f)",
+    "name": "Van Gogh Walk",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art",
+      "landmarks",
+      "urbex"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4354fbd04df0b9da11352)",
+    "name": "Vagabond Wines",
+    "city": "London",
+    "subCategory": [
+      "sharing plates",
+      "bars",
+      "wine bars"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43551bd04df0b9da114ac)",
+    "name": "Two Temple Place",
+    "city": "London",
+    "subCategory": [
+      "art galleries",
+      "architecture",
+      "landmarks"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4355dbd04df0b9da11eec)",
+    "name": "The Rebel's Princess by Artful Dodger",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4355fbd04df0b9da120d5)",
+    "name": "The Parlour",
+    "city": "London",
+    "subCategory": [
+      "group dining",
+      "sharing plates",
+      "meats",
+      "al fresco",
+      "vegan",
+      "vegetarian",
+      "gluten free",
+      "casual drinks",
+      "fine dining"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43578bd04df0b9da13484)",
+    "name": "Swiss Cottage Library",
+    "city": "London",
+    "subCategory": [
+      "architecture",
+      "libraries"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43586bd04df0b9da1402d)",
+    "name": "Savage Garden",
+    "city": "London",
+    "subCategory": [
+      "bars",
+      "cocktail bars",
+      "rooftop bars"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4359cbd04df0b9da152e4)",
+    "name": "Peckham Refreshment Rooms",
+    "city": "London",
+    "subCategory": [
+      "restaurants",
+      "gourmet food",
+      "breakfast & brunch",
+      "traditional",
+      "cafes"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435a8bd04df0b9da15cdd)",
+    "name": "Nail by Gavin Turk",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art",
+      "sculptures",
+      "landmarks",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435a9bd04df0b9da15dbf)",
+    "name": "Mural by Ant Carver",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435adbd04df0b9da16082)",
+    "name": "Mission Place Mural by Run",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435cdbd04df0b9da17af9)",
+    "name": "Inka Williams Mural by Ant Carver",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435d0bd04df0b9da17ded)",
+    "name": "Hoxton Cabin",
+    "city": "London",
+    "subCategory": [
+      "cafes",
+      "galleries",
+      "comedy clubs",
+      "bars",
+      "music venues",
+      "art galleries",
+      ""
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435d4bd04df0b9da180cd)",
+    "name": "HER Coffee",
+    "city": "London",
+    "subCategory": [
+      "breakfast & brunch",
+      "artisan coffee",
+      "cafes"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435d6bd04df0b9da18276)",
+    "name": "Hanbury Street Mural by Muretz",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435e3bd04df0b9da18cb0)",
+    "name": "Flowers Gallery",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "art galleries",
+      "sculptures"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435e5bd04df0b9da18ec3)",
+    "name": "Fight Club by Conor Harrington",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf435ffbd04df0b9da1a453)",
+    "name": "Choumert Road Mural by Walter Kershaw",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43609bd04df0b9da1ad16)",
+    "name": "By the Bridge Cafe",
+    "city": "London",
+    "subCategory": [
+      "cafes",
+      "casual dining",
+      "beer"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4360ebd04df0b9da1b0f8)",
+    "name": "British Library",
+    "city": "London",
+    "subCategory": [
+      "libraries"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf4361ebd04df0b9da1be1b)",
+    "name": "Bao Bar",
+    "city": "London",
+    "subCategory": [
+      "restaurants",
+      "street foods"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43620bd04df0b9da1bff6)",
+    "name": "Avroplane by Phlegm",
+    "city": "London",
+    "subCategory": [
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43622bd04df0b9da1c1a5)",
+    "name": "Atika",
+    "city": "London",
+    "subCategory": [
+      "threads",
+      "vintage stores"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43623bd04df0b9da1c2a7)",
+    "name": "Article Brixton",
+    "city": "London",
+    "subCategory": [
+      "threads"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bf43625bd04df0b9da1c442)",
+    "name": "Antepliler",
+    "city": "London",
+    "subCategory": [
+      "restaurants",
+      "quick bites",
+      "meat lovers",
+      "lunch spots"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac460bd04df0b9d4e3031)",
+    "name": "Winged Figure by Barbara Hepworth",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art",
+      "sculptures",
+      "landmarks",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac461bd04df0b9d4e3076)",
+    "name": "Newton by Eduardo Paolozzi",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art",
+      "sculptures",
+      "landmarks",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac461bd04df0b9d4e30a4)",
+    "name": "Herald St",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e30b3)",
+    "name": "Bethnal Green Gasometers",
+    "city": "London",
+    "subCategory": [
+      "urbex",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e30cc)",
+    "name": "The Booth's Gin Friezes",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "sculptures",
+      "architecture",
+      "urbex",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e30e6)",
+    "name": "Caratoes Mural",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e3134)",
+    "name": "Chaos on Dirty House by Sue Webster",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "street art",
+      "sculptures",
+      "architecture"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e315e)",
+    "name": "Take Courage Ghost Sign",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "sculptures",
+      "architecture",
+      "urbex",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e3170)",
+    "name": "Panyer Boy",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "sculptures",
+      "architecture",
+      "urbex",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e3187)",
+    "name": "Carting Lane Sewer Lamp",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "sculptures",
+      "architecture",
+      "urbex",
+      "curiosities"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac462bd04df0b9d4e319c)",
+    "name": "Andu",
+    "city": "London",
+    "subCategory": [
+      "no frills",
+      "casual dining",
+      "group dining",
+      "vegan",
+      "vegetarian",
+      "sharing plates",
+      "quick bites"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac463bd04df0b9d4e31aa)",
+    "name": "Fancy Crab",
+    "city": "London",
+    "subCategory": [
+      "seafood",
+      "fine dining"
+    ]
+  },
+  {
+    "_id": "ObjectId(5bfac463bd04df0b9d4e31c3)",
+    "name": "Ella Canta",
+    "city": "London",
+    "subCategory": [
+      "fine dining",
+      "seafood",
+      "meats"
     ]
   }
 ]

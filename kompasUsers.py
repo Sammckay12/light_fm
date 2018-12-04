@@ -20,9 +20,6 @@ dataset = Dataset()
 with open('./data/locations.json') as locations:
     locations_data = json.load(locations)
 
-# with open('./interests.json') as interests:
-#     interests_data = json.load(interests)
-
 with open('./data/users.json') as users:
     users_data = json.load(users)
 
@@ -38,10 +35,6 @@ with open('./data/virtualRatings.json') as virtualRatings:
 full_users = users_data+virtual_users_data
 full_ratings = ratings_data+virtual_ratings_data
 
-# for line in islice(locations_data, 2):
-#     print(json.dumps(line, indent=4))
-
-
 # create interest list for user features
 interests = set([item for sublist in [x['interests'] for x in full_users] for item in sublist])
 interestList = list(interests)
@@ -51,7 +44,6 @@ interestList = list(interests)
 # create subCategory list for item features
 subCats = set([item for sublist in [x['subCategory'] for x in locations_data] for item in sublist])
 subCatList = list(subCats)
-
 
 # fit the dataset to create mappings for users, items and respective features
 dataset.fit((x['_id'] for x in full_users),
