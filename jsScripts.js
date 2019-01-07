@@ -1,5 +1,6 @@
 const fs = require('fs');
 const virtualRatings = require("./data/virtualRatings.json")
+const data = require("./data.json")
 const deletedPlaces = [
 "5a7c5a9514f4ba437b8716b0",
 "5a7c5b3814f4ba437b8717a2",
@@ -101,4 +102,10 @@ console.log("data", data.length);
   })
 }
 
-turnToId()
+function createMappingTable () {
+console.log("data length", data.length);
+}
+
+createMappingTable()
+
+// turnToId()

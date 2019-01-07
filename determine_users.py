@@ -22,9 +22,7 @@ def find_location_name(id):
     return place
 
 def find_user_id(kompas_user_id):
-    print(kompas_user_id)
     for attr, value in mapping_id.USERS.items():
         if attr == kompas_user_id:
             return value
-        break
-    return value
+            break
