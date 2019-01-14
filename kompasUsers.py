@@ -87,31 +87,19 @@ def recommend(kompas_user_id):
         kompas_id = 'ObjectId({})'.format(kompas_user_id)
         user_id = find_user_id(kompas_id)
         score = model.predict(user_id,np.arange(num_items), user_features=user_features,item_features=item_features)
-        print(repr(max(score)))
-        print(repr(min(score)))
         # np.set_printoptions(threshold=np.inf)
         ranked_items = np.argsort(-score)
         places = find_location_id(ranked_items, score)
         return json.dumps({"userid":kompas_user_id, "places": places, "max_score": max(score), "min_score": min(score)})
     except:
-        print "in error"
         return json.dumps({"message": "user not in mapping"})
 
 @app.route('/', methods=['GET', 'POST', 'DELETE'])
 def hello():
-    data = request.get_json()
-    print(data)
-    print(data["user"])
-    if request.method == "GET":
-        print("in get")
-        return "hello world"
-    if request.method == "POST":
-        print(user_id)
-        return request.data
-    else:
-        return "hello else"
+    return "hello world"
 
 
 
-serve(app, host='0.0.0.0', port=8080)
+
+serve(app, host='0.0.0.0', port=5000)
 # app.run()
