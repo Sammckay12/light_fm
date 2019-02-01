@@ -10004,7 +10004,9 @@
     "name": "Davenports Magic Shop",
     "city": "London",
     "subCategory": [
-      "hobby shops"
+      "curiosities",
+      "hobby shops",
+      "toy shops"
     ]
   },
   {
@@ -10602,9 +10604,11 @@
     "city": "London",
     "subCategory": [
       "museums",
-      "history museums",
+      "art",
+      "cafes",
+      "sweet treats",
       "curiosities",
-      "science museums"
+      "tea rooms"
     ]
   },
   {
@@ -11337,12 +11341,16 @@
   },
   {
     "_id": "ObjectId(5a7c64d814f4ba437b872a50)",
-    "name": "Duck & Rice",
+    "name": "Duck and Rice",
     "city": "London",
     "subCategory": [
-      "pubs",
-      "restaurants",
-      "sharing plates"
+      "meats",
+      "live music",
+      "late night",
+      "casual dining",
+      "comedy",
+      "craft drinks",
+      "casual drinks"
     ]
   },
   {
@@ -22250,7 +22258,9 @@
     "name": "Wall & Jones",
     "city": "London",
     "subCategory": [
-      "threads"
+      "vintage shops",
+      "fashion",
+      "art"
     ]
   },
   {
@@ -25685,7 +25695,9 @@
     "name": "Present & Correct",
     "city": "London",
     "subCategory": [
-      "design stores"
+      "hobby shops",
+      "curiosities",
+      "home stores"
     ]
   },
   {
@@ -26638,11 +26650,15 @@
     "name": "Roof East",
     "city": "London",
     "subCategory": [
-      "bars",
-      "rooftop bars",
-      "cinemas",
-      "group thrills",
-      "wellbeing"
+      "beer",
+      "craft drinks",
+      "quick bites",
+      "casual dining",
+      "casual drinks",
+      "group dining",
+      "al fresco",
+      "street food",
+      "pop-ups"
     ]
   },
   {
@@ -30008,6 +30024,176 @@
       "fine dining",
       "seafood",
       "meats"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc92e9a5fa7caa11f4c2d)",
+    "name": "Canopy Beer Co.",
+    "city": "London",
+    "subCategory": [
+      "beer",
+      "no frills",
+      "casual drinks"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9309a5fa7caa11f4d04)",
+    "name": "Frog by Adam Handling",
+    "city": "London",
+    "subCategory": [
+      "fine dining",
+      "sharing plates",
+      "meats"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9329a5fa7caa11f4d74)",
+    "name": "Bermondsey Distillery",
+    "city": "London",
+    "subCategory": [
+      "craft drinks"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9339a5fa7caa11f4e50)",
+    "name": "Primrose Bakery",
+    "city": "London",
+    "subCategory": [
+      "sweet treats",
+      "quick bites",
+      "tea rooms",
+      "music"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9349a5fa7caa11f4ea6)",
+    "name": "Fischer's",
+    "city": "London",
+    "subCategory": [
+      "fine dining",
+      "themed bars",
+      "vegetarian",
+      "cafes",
+      "artisan coffee",
+      "casual dining",
+      "meats"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9379a5fa7caa11f4f89)",
+    "name": "Bean & Wheat",
+    "city": "London",
+    "subCategory": [
+      "fine dining",
+      "clean eating",
+      "sharing plates",
+      "vegetarian",
+      "quick bites",
+      "cafes",
+      "beer",
+      "artisan coffee"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9389a5fa7caa11f4ffd)",
+    "name": "National Portrait Gallery",
+    "city": "London",
+    "subCategory": [
+      "art",
+      "museums",
+      "cafes",
+      "quick bites",
+      "craft drinks",
+      "tea rooms",
+      "photography",
+      "views"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc93a9a5fa7caa11f50a5)",
+    "name": "Saint Aymes",
+    "city": "London",
+    "subCategory": [
+      "cafes",
+      "artisan coffee",
+      "sweet treats",
+      "tea rooms",
+      "theatres"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc93f9a5fa7caa11f525e)",
+    "name": "Camden Watch Company",
+    "city": "London",
+    "subCategory": [
+      "fashion"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9429a5fa7caa11f5387)",
+    "name": "Hedonism Wines",
+    "city": "London",
+    "subCategory": [
+      "wine bars",
+      "home stores"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9459a5fa7caa11f548b)",
+    "name": "Paxton & Whitfield",
+    "city": "London",
+    "subCategory": [
+      "sharing plates",
+      "vegetarian",
+      "food stores"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9479a5fa7caa11f5505)",
+    "name": "Postcard Teas",
+    "city": "London",
+    "subCategory": [
+      "food stores",
+      "hobby shops",
+      "tea rooms"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc9489a5fa7caa11f55ed)",
+    "name": "International Magic Shop",
+    "city": "London",
+    "subCategory": [
+      "hobby shops",
+      "toy shops"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc94a9a5fa7caa11f5679)",
+    "name": "The Frog Hoxton",
+    "city": "London",
+    "subCategory": [
+      "sharing plates",
+      "fine dining",
+      "meats",
+      "group dining",
+      "luxury bars"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc94b9a5fa7caa11f56e7)",
+    "name": "Cubitts Opticians",
+    "city": "London",
+    "subCategory": [
+      "fashion"
+    ]
+  },
+  {
+    "_id": "ObjectId(5c3dc94e9a5fa7caa11f57ba)",
+    "name": "Bamboo Bicycle Club",
+    "city": "London",
+    "subCategory": [
+      "sports",
+      "hobby shops"
     ]
   }
 ]
