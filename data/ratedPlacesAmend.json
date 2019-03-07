@@ -191,11 +191,6 @@
   },
   {
       "userId": "ObjectId(58d7b0263bab55ff09d46e03)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(58d7b0263bab55ff09d46e03)",
       "place": "ObjectId(5a7c66e014f4ba437b872d86)",
       "weight": 1
   },
@@ -297,11 +292,6 @@
   {
       "userId": "ObjectId(58247876472f4af90dd0f461)",
       "place": "ObjectId(5a7c698d14f4ba437b8731bb)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(58247876472f4af90dd0f461)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
       "weight": 1
   },
   {
@@ -531,11 +521,6 @@
   },
   {
       "userId": "ObjectId(58247876472f4af90dd0f461)",
-      "place": "ObjectId(5bf4361ebd04df0b9da1be1b)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(58247876472f4af90dd0f461)",
       "place": "ObjectId(5a7c6a8f14f4ba437b87335a)",
       "weight": 1
   },
@@ -547,11 +532,6 @@
   {
       "userId": "ObjectId(58247876472f4af90dd0f461)",
       "place": "ObjectId(5a7c699b14f4ba437b8731d4)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(58247876472f4af90dd0f461)",
-      "place": "ObjectId(5a7c651d14f4ba437b872abe)",
       "weight": 1
   },
   {
@@ -690,6 +670,41 @@
       "weight": 1
   },
   {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5a7c654114f4ba437b872af7)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5a7c637614f4ba437b87282d)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5a7c651d14f4ba437b872abe)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5a7c64d814f4ba437b872a50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5bf4361ebd04df0b9da1be1b)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5c3dc94e9a5fa7caa11f57ba)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(58247876472f4af90dd0f461)",
+      "place": "ObjectId(5a7c695414f4ba437b87315b)",
+      "weight": 1
+  },
+  {
       "userId": "ObjectId(5b14ebe4a56c0b2462c2f64b)",
       "place": "ObjectId(5a7c5e7514f4ba437b871a89)",
       "weight": 1
@@ -766,17 +781,7 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a93f4cf35427db22cf2af6e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c6a3114f4ba437b8732c5)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c64d814f4ba437b872a50)",
       "weight": 1
   },
   {
@@ -906,11 +911,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c6a9114f4ba437b87335c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c6b5814f4ba437b873482)",
       "weight": 1
   },
@@ -942,11 +942,6 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c627d14f4ba437b872698)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c66c414f4ba437b872d58)",
       "weight": 1
   },
   {
@@ -992,31 +987,6 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c6ae614f4ba437b8733e1)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c672a14f4ba437b872df9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5b4cd41cd64813ebac966680)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c676214f4ba437b872e56)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c661914f4ba437b872c50)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c69b014f4ba437b8731f4)",
       "weight": 1
   },
   {
@@ -1141,11 +1111,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c65da14f4ba437b872bf0)",
       "weight": 1
   },
@@ -1231,11 +1196,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c64d814f4ba437b872a50)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c64b614f4ba437b872a17)",
       "weight": 1
   },
@@ -1272,11 +1232,6 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c67d414f4ba437b872f07)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c651a14f4ba437b872ab9)",
       "weight": 1
   },
   {
@@ -1376,11 +1331,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e5f14f4ba437b871a63)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c5e5814f4ba437b871a57)",
       "weight": 1
   },
@@ -1396,22 +1346,12 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e7114f4ba437b871a82)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c5e7414f4ba437b871a87)",
       "weight": 1
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c5e6a14f4ba437b871a77)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e0c14f4ba437b8719d2)",
       "weight": 1
   },
   {
@@ -1426,17 +1366,7 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e1e14f4ba437b8719f2)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c5e2914f4ba437b871a06)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e4614f4ba437b871a38)",
       "weight": 1
   },
   {
@@ -1871,11 +1801,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5c3dc94e9a5fa7caa11f57ba)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5c3dc9459a5fa7caa11f548b)",
       "weight": 1
   },
@@ -1892,11 +1817,6 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c63d014f4ba437b8728b9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5c3dc9339a5fa7caa11f4e50)",
       "weight": 1
   },
   {
@@ -2041,6 +1961,236 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5b2a14f4ba437b87178e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c672a14f4ba437b872df9)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c6a9114f4ba437b87335c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c69b014f4ba437b8731f4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5e7114f4ba437b871a82)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5e4114f4ba437b871a31)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5e3714f4ba437b871a1f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5e1e14f4ba437b8719f2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5e5f14f4ba437b871a63)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c64d814f4ba437b872a50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c68e514f4ba437b8730ab)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c693c14f4ba437b873131)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c641b14f4ba437b87292c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c66c414f4ba437b872d58)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c6b0814f4ba437b873414)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c69ec14f4ba437b87324f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c678514f4ba437b872e91)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5c3dc9339a5fa7caa11f4e50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c66fa14f4ba437b872dab)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c657614f4ba437b872b4c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c65b514f4ba437b872bb2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c679a14f4ba437b872eb1)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c651a14f4ba437b872ab9)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c67da14f4ba437b872f0e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c68f614f4ba437b8730c5)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a93f4cf35427db22cf2af6e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c643f14f4ba437b872961)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c695814f4ba437b873162)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5bf435adbd04df0b9da16082)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c66ef14f4ba437b872d9f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5bf4355dbd04df0b9da11eec)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c68b914f4ba437b873066)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5bf435e5bd04df0b9da18ec3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c65f414f4ba437b872c17)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c6a1014f4ba437b87328a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c629614f4ba437b8726c1)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c6a6f14f4ba437b873323)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c62ef14f4ba437b872752)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c676a14f4ba437b872e64)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c633b14f4ba437b8727cc)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c698e14f4ba437b8731bd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c698e14f4ba437b8731bd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5b4dce5dd64813ebaceabfff)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c65fd14f4ba437b872c25)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c679114f4ba437b872ea3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c649014f4ba437b8729dc)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c693e14f4ba437b873135)",
       "weight": 0
   },
@@ -2051,17 +2201,7 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5b4cb966d64813ebac8dcf2a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5b4cb983d64813ebac8dd84d)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5b4cb962d64813ebac8dcdbe)",
       "weight": 0
   },
   {
@@ -2096,17 +2236,7 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c664014f4ba437b872c8a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c6a0f14f4ba437b873288)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
       "weight": 0
   },
   {
@@ -2122,16 +2252,6 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5b4df719d64813ebacf4c916)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c64b714f4ba437b872a19)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c678514f4ba437b872e91)",
       "weight": 0
   },
   {
@@ -2341,11 +2461,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c5e3714f4ba437b871a1f)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c5e3714f4ba437b871a21)",
       "weight": 0
   },
@@ -2501,11 +2616,6 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c6a0f14f4ba437b873288)",
       "weight": 0
   },
@@ -2556,17 +2666,7 @@
   },
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c65ae14f4ba437b872ba7)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a93fb0035427db22cf42a01)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 0
   },
   {
@@ -2692,6 +2792,86 @@
   {
       "userId": "ObjectId(5829c976be5bb3b022fc223e)",
       "place": "ObjectId(5a7c68e114f4ba437b8730a5)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c5ab214f4ba437b8716da)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c64b714f4ba437b872a19)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5bf4361ebd04df0b9da1be1b)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5b4cd41cd64813ebac966680)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c664014f4ba437b872c8a)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5b4cb966d64813ebac8dcf2a)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c65ae14f4ba437b872ba7)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c65ac14f4ba437b872ba4)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c667814f4ba437b872cd9)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c6add14f4ba437b8733d3)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c674614f4ba437b872e28)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5bf4360ebd04df0b9da1b0f8)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c682e14f4ba437b872f8f)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c651c14f4ba437b872abc)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5c3dc94e9a5fa7caa11f57ba)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5829c976be5bb3b022fc223e)",
+      "place": "ObjectId(5a7c635b14f4ba437b872800)",
       "weight": 0
   },
   {
@@ -4146,11 +4326,6 @@
   },
   {
       "userId": "ObjectId(581cbdd20ed2374c3ba6562a)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(581cbdd20ed2374c3ba6562a)",
       "place": "ObjectId(5a7c671314f4ba437b872dd4)",
       "weight": 1
   },
@@ -4182,11 +4357,6 @@
   {
       "userId": "ObjectId(581cbdd20ed2374c3ba6562a)",
       "place": "ObjectId(5a7c670914f4ba437b872dc4)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(581cbdd20ed2374c3ba6562a)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -4841,11 +5011,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c698914f4ba437b8731b4)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c691414f4ba437b8730f5)",
       "weight": 1
   },
@@ -4862,11 +5027,6 @@
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c69c714f4ba437b873219)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c65a214f4ba437b872b95)",
       "weight": 1
   },
   {
@@ -4906,11 +5066,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c695e14f4ba437b87316b)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c67d114f4ba437b872f02)",
       "weight": 1
   },
@@ -4932,11 +5087,6 @@
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c62b514f4ba437b8726f3)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c6a0114f4ba437b873271)",
       "weight": 1
   },
   {
@@ -5221,11 +5371,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c661914f4ba437b872c50)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c64e614f4ba437b872a69)",
       "weight": 1
   },
@@ -5241,22 +5386,7 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c6a3114f4ba437b8732c5)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c677314f4ba437b872e73)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c64c614f4ba437b872a32)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5b4dcf9cd64813ebaceb1399)",
       "weight": 1
   },
   {
@@ -5276,17 +5406,7 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c64b714f4ba437b872a19)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c67e914f4ba437b872f29)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c664814f4ba437b872c96)",
       "weight": 1
   },
   {
@@ -5306,11 +5426,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5bf4361ebd04df0b9da1be1b)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5b4cd3fbd64813ebac965b09)",
       "weight": 1
   },
@@ -5321,8 +5436,18 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c696f14f4ba437b873185)",
-      "weight": 0
+      "place": "ObjectId(5a7c661914f4ba437b872c50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
+      "place": "ObjectId(5a7c695e14f4ba437b87316b)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
+      "place": "ObjectId(5bf4361ebd04df0b9da1be1b)",
+      "weight": 1
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
@@ -5531,11 +5656,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5b91587c7928d192efd00d17)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5a7c650e14f4ba437b872aa7)",
       "weight": 0
   },
@@ -5731,11 +5851,6 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c6aac14f4ba437b873389)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
       "place": "ObjectId(5b4cb978d64813ebac8dd4cf)",
       "weight": 0
   },
@@ -5761,7 +5876,7 @@
   },
   {
       "userId": "ObjectId(5b336cc8214fed2cb3a7276c)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
+      "place": "ObjectId(5b91587c7928d192efd00d17)",
       "weight": 0
   },
   {
@@ -5837,11 +5952,6 @@
   {
       "userId": "ObjectId(5afd9e1f26188d0df2bec195)",
       "place": "ObjectId(5a93f98b35427db22cf3d14a)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5afd9e1f26188d0df2bec195)",
-      "place": "ObjectId(5a7c678514f4ba437b872e91)",
       "weight": 1
   },
   {
@@ -6481,11 +6591,6 @@
   },
   {
       "userId": "ObjectId(5b4d8f077652a22153418d99)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b4d8f077652a22153418d99)",
       "place": "ObjectId(5a7c664014f4ba437b872c8a)",
       "weight": 1
   },
@@ -6577,11 +6682,6 @@
   {
       "userId": "ObjectId(5b4d8f077652a22153418d99)",
       "place": "ObjectId(5a7c68e114f4ba437b8730a5)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5b4d8f077652a22153418d99)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
       "weight": 1
   },
   {
@@ -7227,6 +7327,11 @@
   {
       "userId": "ObjectId(5b4d8f077652a22153418d99)",
       "place": "ObjectId(5a7c62ef14f4ba437b872752)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5b4d8f077652a22153418d99)",
+      "place": "ObjectId(5a7c68ae14f4ba437b873054)",
       "weight": 0
   },
   {
@@ -10461,11 +10566,6 @@
   },
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5b4df1bfd64813ebacf365fc)",
       "weight": 0
   },
@@ -11106,11 +11206,6 @@
   },
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5a7c63e114f4ba437b8728d3)",
       "weight": 0
   },
@@ -11236,11 +11331,6 @@
   },
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5a7c675b14f4ba437b872e4d)",
       "weight": 0
   },
@@ -11327,11 +11417,6 @@
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5a93f6d335427db22cf32e74)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
       "weight": 0
   },
   {
@@ -11611,11 +11696,6 @@
   },
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5a7c6a7314f4ba437b87332a)",
       "weight": 0
   },
@@ -11642,11 +11722,6 @@
   {
       "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
       "place": "ObjectId(5a7c642a14f4ba437b872943)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdb74db60da992c5d62ec28)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
       "weight": 0
   },
   {
@@ -14306,11 +14381,6 @@
   },
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c650d14f4ba437b872aa5)",
       "weight": 1
   },
@@ -15447,11 +15517,6 @@
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a93f35f35427db22cf254c9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
       "weight": 1
   },
   {
@@ -17371,11 +17436,6 @@
   },
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c677614f4ba437b872e78)",
       "weight": 0
   },
@@ -17466,11 +17526,6 @@
   },
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c656814f4ba437b872b37)",
       "weight": 0
   },
@@ -17557,11 +17612,6 @@
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c63f314f4ba437b8728ec)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 0
   },
   {
@@ -18282,11 +18332,6 @@
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c68f714f4ba437b8730c7)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 0
   },
   {
@@ -19482,11 +19527,6 @@
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c64c414f4ba437b872a30)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 0
   },
   {
@@ -21486,11 +21526,6 @@
   },
   {
       "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdc54bcc80d2f6eed977a61)",
       "place": "ObjectId(5a7c667d14f4ba437b872ce2)",
       "weight": 0
   },
@@ -21951,11 +21986,6 @@
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c6aab14f4ba437b873387)",
       "weight": 1
   },
@@ -21976,11 +22006,6 @@
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c6a8114f4ba437b873341)",
       "weight": 1
   },
@@ -21992,11 +22017,6 @@
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c663214f4ba437b872c75)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 1
   },
   {
@@ -22046,22 +22066,12 @@
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c66b914f4ba437b872d46)",
       "weight": 1
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c68c914f4ba437b87307e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -22261,11 +22271,6 @@
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c686f14f4ba437b872fec)",
       "weight": 1
   },
@@ -22377,11 +22382,6 @@
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c675c14f4ba437b872e4f)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
       "weight": 1
   },
   {
@@ -22876,11 +22876,6 @@
   },
   {
       "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf4ea9c80d2f6eed9781bf)",
       "place": "ObjectId(5a7c687f14f4ba437b873007)",
       "weight": 1
   },
@@ -23321,11 +23316,6 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c690214f4ba437b8730d7)",
       "weight": 1
   },
@@ -23377,11 +23367,6 @@
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c662214f4ba437b872c5e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
       "weight": 1
   },
   {
@@ -23451,11 +23436,6 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62cc14f4ba437b872719)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c68ba14f4ba437b873069)",
       "weight": 1
   },
@@ -23491,22 +23471,12 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c689e14f4ba437b87303b)",
       "weight": 1
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c6a7214f4ba437b873328)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 1
   },
   {
@@ -23537,11 +23507,6 @@
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5b4df189d64813ebacf357b2)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 1
   },
   {
@@ -23811,11 +23776,6 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c656d14f4ba437b872b3e)",
       "weight": 1
   },
@@ -23826,22 +23786,7 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c67d614f4ba437b872f09)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -24641,11 +24586,6 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c6a1114f4ba437b87328c)",
       "weight": 1
   },
@@ -25052,11 +24992,6 @@
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c65e414f4ba437b872c00)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
       "weight": 1
   },
   {
@@ -28416,11 +28351,6 @@
   },
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c6b8814f4ba437b8734c1)",
       "weight": 0
   },
@@ -28467,11 +28397,6 @@
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c668414f4ba437b872cec)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
       "weight": 0
   },
   {
@@ -28747,11 +28672,6 @@
   {
       "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
       "place": "ObjectId(5a7c66ff14f4ba437b872db4)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5bdf5c2cc80d2f6eed9783cd)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 0
   },
   {
@@ -30596,11 +30516,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c664014f4ba437b872c8a)",
       "weight": 1
   },
@@ -30802,11 +30717,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c631114f4ba437b872787)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
       "weight": 1
   },
   {
@@ -31081,11 +30991,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c677614f4ba437b872e78)",
       "weight": 1
   },
@@ -31137,11 +31042,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c645e14f4ba437b87298e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
       "weight": 1
   },
   {
@@ -31277,11 +31177,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c640b14f4ba437b872913)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
       "weight": 1
   },
   {
@@ -31677,11 +31572,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c68f714f4ba437b8730c7)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 1
   },
   {
@@ -32436,11 +32326,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c671314f4ba437b872dd4)",
       "weight": 1
   },
@@ -32552,11 +32437,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c67af14f4ba437b872ed3)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
       "weight": 1
   },
   {
@@ -32986,17 +32866,7 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 1
   },
   {
@@ -33047,11 +32917,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c64c414f4ba437b872a30)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -36051,11 +35916,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5b4cb962d64813ebac8dcdbe)",
       "weight": 0
   },
@@ -37131,11 +36991,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c675b14f4ba437b872e4d)",
       "weight": 0
   },
@@ -37152,11 +37007,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c670914f4ba437b872dc4)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 0
   },
   {
@@ -37716,11 +37566,6 @@
   },
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c6b8814f4ba437b8734c1)",
       "weight": 0
   },
@@ -37827,11 +37672,6 @@
   {
       "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
       "place": "ObjectId(5a7c676314f4ba437b872e58)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be04ba9c80d2f6eed978a42)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 0
   },
   {
@@ -40171,11 +40011,6 @@
   },
   {
       "userId": "ObjectId(5be05290c80d2f6eed978ad1)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be05290c80d2f6eed978ad1)",
       "place": "ObjectId(5a7c675b14f4ba437b872e4d)",
       "weight": 1
   },
@@ -40477,11 +40312,6 @@
   {
       "userId": "ObjectId(5be05290c80d2f6eed978ad1)",
       "place": "ObjectId(5a7c68f714f4ba437b8730c7)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be05290c80d2f6eed978ad1)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 0
   },
   {
@@ -42691,11 +42521,6 @@
   },
   {
       "userId": "ObjectId(5be06017c80d2f6eed978ba2)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be06017c80d2f6eed978ba2)",
       "place": "ObjectId(5a7c641b14f4ba437b87292c)",
       "weight": 0
   },
@@ -43416,11 +43241,6 @@
   },
   {
       "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
       "place": "ObjectId(5a7c677614f4ba437b872e78)",
       "weight": 1
   },
@@ -43482,11 +43302,6 @@
   {
       "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
       "place": "ObjectId(5a7c654f14f4ba437b872b0c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
       "weight": 1
   },
   {
@@ -43557,11 +43372,6 @@
   {
       "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
       "place": "ObjectId(5a7c65c314f4ba437b872bc9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -43987,11 +43797,6 @@
   {
       "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
       "place": "ObjectId(5a7c68f714f4ba437b8730c7)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 1
   },
   {
@@ -44517,11 +44322,6 @@
   {
       "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
       "place": "ObjectId(5a7c66af14f4ba437b872d34)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be06641c80d2f6eed978c4a)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
       "weight": 0
   },
   {
@@ -45621,11 +45421,6 @@
   },
   {
       "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
       "place": "ObjectId(5a7c63e114f4ba437b8728d3)",
       "weight": 1
   },
@@ -45701,17 +45496,7 @@
   },
   {
       "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
       "place": "ObjectId(5a7c649914f4ba437b8729e5)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
       "weight": 1
   },
   {
@@ -45757,11 +45542,6 @@
   {
       "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
       "place": "ObjectId(5a7c67d614f4ba437b872f09)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be084f7c80d2f6eed978cca)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -46111,11 +45891,6 @@
   },
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c64b914f4ba437b872a1e)",
       "weight": 1
   },
@@ -46196,16 +45971,6 @@
   },
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c650d14f4ba437b872aa5)",
       "weight": 1
   },
@@ -46272,11 +46037,6 @@
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c65c314f4ba437b872bc9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -46966,11 +46726,6 @@
   },
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
       "weight": 1
   },
@@ -47002,11 +46757,6 @@
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c64c414f4ba437b872a30)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -47531,11 +47281,6 @@
   },
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c66e914f4ba437b872d94)",
       "weight": 0
   },
@@ -47587,11 +47332,6 @@
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c6b2014f4ba437b873436)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 0
   },
   {
@@ -48006,11 +47746,6 @@
   },
   {
       "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be192e9c80d2f6eed97933b)",
       "place": "ObjectId(5a7c6b8814f4ba437b8734c1)",
       "weight": 0
   },
@@ -48061,11 +47796,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c670814f4ba437b872dc2)",
       "weight": 1
   },
@@ -48092,16 +47822,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c656d14f4ba437b872b3e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
       "weight": 1
   },
   {
@@ -48137,11 +47857,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c65c314f4ba437b872bc9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -48471,16 +48186,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c651a14f4ba437b872ab9)",
       "weight": 1
   },
@@ -48492,11 +48197,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c6a7a14f4ba437b873335)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
       "weight": 1
   },
   {
@@ -48696,11 +48396,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c674714f4ba437b872e2b)",
       "weight": 1
   },
@@ -48736,11 +48431,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c675714f4ba437b872e46)",
       "weight": 1
   },
@@ -48757,11 +48447,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c694314f4ba437b87313e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cc14f4ba437b872719)",
       "weight": 1
   },
   {
@@ -48807,11 +48492,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c644314f4ba437b872968)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 1
   },
   {
@@ -49536,11 +49216,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c64c614f4ba437b872a32)",
       "weight": 1
   },
@@ -49751,11 +49426,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c632c14f4ba437b8727b1)",
       "weight": 1
   },
@@ -49862,11 +49532,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c66ed14f4ba437b872d9b)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
       "weight": 1
   },
   {
@@ -50057,11 +49722,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5b4df189d64813ebacf357b2)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 1
   },
   {
@@ -50317,11 +49977,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c653414f4ba437b872ae0)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c627e14f4ba437b87269a)",
       "weight": 1
   },
   {
@@ -50851,11 +50506,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c69a514f4ba437b8731e4)",
       "weight": 1
   },
@@ -50987,11 +50637,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c6a2314f4ba437b8732ac)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cc14f4ba437b872719)",
       "weight": 1
   },
   {
@@ -51901,11 +51546,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c651c14f4ba437b872abc)",
       "weight": 1
   },
@@ -51931,16 +51571,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c67dc14f4ba437b872f12)",
       "weight": 1
   },
@@ -51957,11 +51587,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c67d414f4ba437b872f07)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
       "weight": 1
   },
   {
@@ -52011,11 +51636,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c648814f4ba437b8729ce)",
       "weight": 1
   },
@@ -52032,11 +51652,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c6b7414f4ba437b8734a5)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
       "weight": 1
   },
   {
@@ -52062,16 +51677,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c677d14f4ba437b872e83)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 1
   },
   {
@@ -52102,11 +51707,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c68df14f4ba437b8730a0)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
       "weight": 1
   },
   {
@@ -52171,17 +51771,7 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c690214f4ba437b8730d7)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
       "weight": 1
   },
   {
@@ -52192,11 +51782,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c65a414f4ba437b872b97)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -52212,11 +51797,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c68c914f4ba437b87307e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -52281,17 +51861,7 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 1
   },
   {
@@ -52337,11 +51907,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c64c414f4ba437b872a30)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -53901,11 +53466,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5b4dcf74d64813ebaceb097d)",
       "weight": 0
   },
@@ -53992,11 +53552,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c6a7614f4ba437b87332e)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
       "weight": 0
   },
   {
@@ -54347,11 +53902,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c66b914f4ba437b872d46)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
       "weight": 0
   },
   {
@@ -55552,11 +55102,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c62e214f4ba437b87273e)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 0
   },
   {
@@ -57256,11 +56801,6 @@
   },
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5b4cb984d64813ebac8dd898)",
       "weight": 0
   },
@@ -57272,11 +56812,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a7c6a7014f4ba437b873325)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 0
   },
   {
@@ -59452,11 +58987,6 @@
   {
       "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
       "place": "ObjectId(5a93f35f35427db22cf254c9)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19b79c80d2f6eed97956b)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
       "weight": 0
   },
   {
@@ -61676,11 +61206,6 @@
   },
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5a7c64b914f4ba437b872a1e)",
       "weight": 1
   },
@@ -62366,11 +61891,6 @@
   },
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5b91589d7928d192efd019b0)",
       "weight": 1
   },
@@ -62476,11 +61996,6 @@
   },
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5a7c656814f4ba437b872b37)",
       "weight": 0
   },
@@ -62502,11 +62017,6 @@
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5a7c63c314f4ba437b8728a3)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
       "weight": 0
   },
   {
@@ -62547,11 +62057,6 @@
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5a7c660814f4ba437b872c35)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 0
   },
   {
@@ -62921,11 +62426,6 @@
   },
   {
       "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be19ea3c80d2f6eed9797ea)",
       "place": "ObjectId(5b4df1bfd64813ebacf365fc)",
       "weight": 0
   },
@@ -63141,11 +62641,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c670814f4ba437b872dc2)",
       "weight": 1
   },
@@ -63171,27 +62666,12 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c687f14f4ba437b873007)",
       "weight": 1
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c67d414f4ba437b872f07)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 1
   },
   {
@@ -63267,11 +62747,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c68df14f4ba437b8730a0)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 1
   },
   {
@@ -63356,11 +62831,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c690214f4ba437b8730d7)",
       "weight": 1
   },
@@ -63412,11 +62882,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c662214f4ba437b872c5e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
       "weight": 1
   },
   {
@@ -63476,11 +62941,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62cc14f4ba437b872719)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c68ba14f4ba437b873069)",
       "weight": 1
   },
@@ -63511,11 +62971,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c677d14f4ba437b872e83)",
       "weight": 1
   },
@@ -63527,11 +62982,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c6a7214f4ba437b873328)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
       "weight": 1
   },
   {
@@ -63672,11 +63122,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5b4df189d64813ebacf357b2)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
       "weight": 1
   },
   {
@@ -64131,17 +63576,7 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 1
   },
   {
@@ -64167,11 +63602,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c68c914f4ba437b87307e)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -64941,11 +64371,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a93f35f35427db22cf254c9)",
       "weight": 1
   },
@@ -65241,17 +64666,7 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 1
   },
   {
@@ -65301,11 +64716,6 @@
   },
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c66b914f4ba437b872d46)",
       "weight": 1
   },
@@ -65322,11 +64732,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c64c414f4ba437b872a30)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 1
   },
   {
@@ -65422,11 +64827,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c668414f4ba437b872cec)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
       "weight": 1
   },
   {
@@ -65682,11 +65082,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c64ec14f4ba437b872a72)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
       "weight": 1
   },
   {
@@ -69732,11 +69127,6 @@
   {
       "userId": "ObjectId(5be1a082c80d2f6eed979924)",
       "place": "ObjectId(5a7c6a7014f4ba437b873325)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be1a082c80d2f6eed979924)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 0
   },
   {
@@ -73246,11 +72636,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62cd14f4ba437b87271c)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c671314f4ba437b872dd4)",
       "weight": 1
   },
@@ -73487,11 +72872,6 @@
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a93f35f35427db22cf254c9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62bc14f4ba437b8726fe)",
       "weight": 1
   },
   {
@@ -73902,11 +73282,6 @@
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c660814f4ba437b872c35)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c628814f4ba437b8726aa)",
       "weight": 1
   },
   {
@@ -76746,11 +76121,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62c814f4ba437b872712)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5b4df1bfd64813ebacf365fc)",
       "weight": 0
   },
@@ -77361,11 +76731,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62d114f4ba437b872722)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c63e114f4ba437b8728d3)",
       "weight": 0
   },
@@ -77416,11 +76781,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62ce14f4ba437b87271e)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c649914f4ba437b8729e5)",
       "weight": 0
   },
@@ -77457,11 +76817,6 @@
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c67d414f4ba437b872f07)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62c914f4ba437b872715)",
       "weight": 0
   },
   {
@@ -78066,17 +77421,7 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62d214f4ba437b872725)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c67ee14f4ba437b872f32)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62d414f4ba437b872727)",
       "weight": 0
   },
   {
@@ -78101,11 +77446,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c6b8814f4ba437b8734c1)",
       "weight": 0
   },
@@ -78117,11 +77457,6 @@
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a93f6b535427db22cf32485)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62cb14f4ba437b872717)",
       "weight": 0
   },
   {
@@ -78256,11 +77591,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62d014f4ba437b872720)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c6a7214f4ba437b873328)",
       "weight": 0
   },
@@ -78391,11 +77721,6 @@
   },
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c62ab14f4ba437b8726e3)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c6a0f14f4ba437b873288)",
       "weight": 0
   },
@@ -78412,11 +77737,6 @@
   {
       "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
       "place": "ObjectId(5a7c6a7014f4ba437b873325)",
-      "weight": 0
-  },
-  {
-      "userId": "ObjectId(5be3913ec80d2f6eed97ad6c)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 0
   },
   {
@@ -81405,6 +80725,21 @@
       "weight": 0
   },
   {
+      "userId": "ObjectId(5b7a5693b189b13ca8713ea7)",
+      "place": "ObjectId(5a7c688014f4ba437b873009)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5b7a5693b189b13ca8713ea7)",
+      "place": "ObjectId(5a7c67c214f4ba437b872eef)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5b7a5693b189b13ca8713ea7)",
+      "place": "ObjectId(5b4df1a3d64813ebacf35e10)",
+      "weight": 0
+  },
+  {
       "userId": "ObjectId(5c0797ed6af8ef79fcd17c6f)",
       "place": "ObjectId(5a7c5aaa14f4ba437b8716ce)",
       "weight": 1
@@ -81517,11 +80852,6 @@
   {
       "userId": "ObjectId(5c179d24eaeeb7aae34e5218)",
       "place": "ObjectId(5a7c635614f4ba437b8727f9)",
-      "weight": 1
-  },
-  {
-      "userId": "ObjectId(5c179e4ceaeeb7aae34e521e)",
-      "place": "ObjectId(5a7c629f14f4ba437b8726ce)",
       "weight": 1
   },
   {
@@ -81742,6 +81072,11 @@
   {
       "userId": "ObjectId(59bdcae4c64a73732e8ec1f5)",
       "place": "ObjectId(5a7c690614f4ba437b8730de)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59bdcae4c64a73732e8ec1f5)",
+      "place": "ObjectId(5a7c67dd14f4ba437b872f15)",
       "weight": 1
   },
   {
@@ -82745,11 +82080,6 @@
       "weight": 1
   },
   {
-      "userId": "ObjectId(5c43d2467069dd573bf7dd7e)",
-      "place": "ObjectId(5b4dce82d64813ebaceaca0a)",
-      "weight": 1
-  },
-  {
       "userId": "ObjectId(5c4f6288cbd2c67143b4e949)",
       "place": "ObjectId(5a7c630014f4ba437b87276c)",
       "weight": 1
@@ -82856,6 +82186,11 @@
   },
   {
       "userId": "ObjectId(57ce6cccd0bbd36f2f28997e)",
+      "place": "ObjectId(5a7c698e14f4ba437b8731bd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57ce6cccd0bbd36f2f28997e)",
       "place": "ObjectId(5a7c65c114f4ba437b872bc5)",
       "weight": 0
   },
@@ -82898,5 +82233,655 @@
       "userId": "ObjectId(57ce6cccd0bbd36f2f28997e)",
       "place": "ObjectId(5a7c686614f4ba437b872fde)",
       "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c518559cbd2c67143b4e9b1)",
+      "place": "ObjectId(5a7c684814f4ba437b872fb4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c518559cbd2c67143b4e9b1)",
+      "place": "ObjectId(5a7c67a214f4ba437b872ebf)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6a2714f4ba437b8732b3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5b4cb976d64813ebac8dd47d)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5b4dcf6fd64813ebaceb084c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c698b14f4ba437b8731b9)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c64d814f4ba437b872a50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c653714f4ba437b872ae5)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c683514f4ba437b872f9a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c699f14f4ba437b8731db)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c67aa14f4ba437b872eca)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c628414f4ba437b8726a3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5b4df61dd64813ebacf48396)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c682314f4ba437b872f7f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a93f55035427db22cf2d0f3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c63d614f4ba437b8728c3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6b8114f4ba437b8734b8)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5c3dc9429a5fa7caa11f5387)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c68df14f4ba437b8730a0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c664414f4ba437b872c8f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c63c014f4ba437b87289e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c690214f4ba437b8730d7)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6a8114f4ba437b873341)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6b8814f4ba437b8734c1)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c657114f4ba437b872b45)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6d2114f4ba437b8737dd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6c9b14f4ba437b87371a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6d0614f4ba437b8737bf)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(59cb5e0bb3202d7e0bbb6b9f)",
+      "place": "ObjectId(5a7c6d2314f4ba437b8737df)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a4c0d62cfb5ca0af8ec9a4f)",
+      "place": "ObjectId(5a7c5a9414f4ba437b8716ad)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a4c0d62cfb5ca0af8ec9a4f)",
+      "place": "ObjectId(5a7c5b9b14f4ba437b87183f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a4c0d62cfb5ca0af8ec9a4f)",
+      "place": "ObjectId(5a7c5a9814f4ba437b8716b4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c3a319fadbaa3202c39d5e6)",
+      "place": "ObjectId(5a7c5e2814f4ba437b871a04)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a2049981f3f5f6a8e42f930)",
+      "place": "ObjectId(5a7c659614f4ba437b872b82)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a2049981f3f5f6a8e42f930)",
+      "place": "ObjectId(5b4cb967d64813ebac8dcfa2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a2049981f3f5f6a8e42f930)",
+      "place": "ObjectId(5b4df1e7d64813ebacf36ff3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c52054acbd2c67143b4e9f1)",
+      "place": "ObjectId(5a7c606d14f4ba437b871d6f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c52054acbd2c67143b4e9f1)",
+      "place": "ObjectId(5a7c60a614f4ba437b871dd0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c52054acbd2c67143b4e9f1)",
+      "place": "ObjectId(5a7c600314f4ba437b871cbd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c52054acbd2c67143b4e9f1)",
+      "place": "ObjectId(5a7c612314f4ba437b871ead)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a6cb713fb971d1661e4b4cd)",
+      "place": "ObjectId(5a7c65bf14f4ba437b872bc2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c55877dcbd2c67143b4eaae)",
+      "place": "ObjectId(5a7c6b5714f4ba437b87347f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5a7c655e14f4ba437b872b25)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5c3dc94b9a5fa7caa11f56e7)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5a7c64a314f4ba437b8729f8)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5a7c6a4b14f4ba437b8732ec)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5b4cd368d64813ebac961a11)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5a7c6abd14f4ba437b8733a3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(57d18f15dfd9714d448796c6)",
+      "place": "ObjectId(5a7c68b114f4ba437b873059)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c50acb6cbd2c67143b4e98f)",
+      "place": "ObjectId(5c3dc9459a5fa7caa11f548b)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c50acb6cbd2c67143b4e98f)",
+      "place": "ObjectId(5a7c5b3914f4ba437b8717a5)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c58972bcbd2c67143b4eba4)",
+      "place": "ObjectId(5a7c60b214f4ba437b871de6)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5991d7cbd2c67143b4ebd1)",
+      "place": "ObjectId(5a7c679b14f4ba437b872eb3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5a7c69b514f4ba437b8731fd)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5a7c6a6314f4ba437b873311)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5bf4354fbd04df0b9da1132f)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5b4cb981d64813ebac8dd7a9)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5a7c695814f4ba437b873162)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5a7c66ef14f4ba437b872d9f)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c59ad03cbd2c67143b4ebe5)",
+      "place": "ObjectId(5a7c649f14f4ba437b8729f1)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c5b59a4cbd2c67143b4ec66)",
+      "place": "ObjectId(5a7c6a0514f4ba437b873276)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5b59a4cbd2c67143b4ec66)",
+      "place": "ObjectId(5a7c648814f4ba437b8729ce)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5b59a4cbd2c67143b4ec66)",
+      "place": "ObjectId(5a93fb8e35427db22cf44abf)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5b59a4cbd2c67143b4ec66)",
+      "place": "ObjectId(5a7c651f14f4ba437b872ac0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5b59a4cbd2c67143b4ec66)",
+      "place": "ObjectId(5a7c66b914f4ba437b872d46)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5acbc51671e79679cd12335d)",
+      "place": "ObjectId(5a7c67e014f4ba437b872f1b)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c1a2620adbaa3202c39d0ad)",
+      "place": "ObjectId(5b4cb961d64813ebac8dcd6d)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5b4cb992d64813ebac8ddcb4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5b4cb998d64813ebac8dded5)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5b4cb981d64813ebac8dd7a9)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5b4cb995d64813ebac8ddd96)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5a7c63a214f4ba437b87286c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5a7c6ab014f4ba437b87338e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a8734611877e24300e5ef49)",
+      "place": "ObjectId(5a7c698d14f4ba437b8731bb)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c608714f4ba437b871d9c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c60c314f4ba437b871e04)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c600414f4ba437b871cc0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c611514f4ba437b871e93)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c60f214f4ba437b871e50)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c615214f4ba437b871ef2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c615414f4ba437b871ef7)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c609c14f4ba437b871dc0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c603f14f4ba437b871d21)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c613c14f4ba437b871ece)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5c5c8360cbd2c67143b4ecb6)",
+      "place": "ObjectId(5a7c5ff714f4ba437b871ca7)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5a40b66932a27316f27cee71)",
+      "place": "ObjectId(5a7c5ac314f4ba437b8716f2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a40b66932a27316f27cee71)",
+      "place": "ObjectId(5a7c5b6914f4ba437b8717f0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a40b66932a27316f27cee71)",
+      "place": "ObjectId(5a7c5b8c14f4ba437b871828)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a40b66932a27316f27cee71)",
+      "place": "ObjectId(5a7c5bc114f4ba437b87187b)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c668214f4ba437b872ce9)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c660814f4ba437b872c35)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c668414f4ba437b872cec)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c697314f4ba437b87318c)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c68f114f4ba437b8730be)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c649c14f4ba437b8729ea)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c6a0514f4ba437b873276)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cca58cbd2c67143b4ece6)",
+      "place": "ObjectId(5a7c690614f4ba437b8730de)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cc9cecbd2c67143b4ece3)",
+      "place": "ObjectId(5a7c6a1314f4ba437b873291)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5cc9cecbd2c67143b4ece3)",
+      "place": "ObjectId(5a7c66ad14f4ba437b872d30)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b5a4d6bec73061fc8f22809)",
+      "place": "ObjectId(5b9158f77928d192efd03da0)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b5a4d6bec73061fc8f22809)",
+      "place": "ObjectId(5b9276407928d192ef4cef8f)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b5a4d6bec73061fc8f22809)",
+      "place": "ObjectId(5b9158ed7928d192efd039c2)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5b4cb963d64813ebac8dce0d)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c6b5814f4ba437b873482)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c63a314f4ba437b87286e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5b4cb966d64813ebac8dcf2a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c64e614f4ba437b872a69)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c66e014f4ba437b872d86)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5bfac462bd04df0b9d4e30b3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c65ac14f4ba437b872ba4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5a88d2ffc8a12a35314a9650)",
+      "place": "ObjectId(5a7c696f14f4ba437b873185)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b0baff855e42b0733f589ef)",
+      "place": "ObjectId(5a7c6d3e14f4ba437b873805)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b0baff855e42b0733f589ef)",
+      "place": "ObjectId(5a7c6d1e14f4ba437b8737da)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b0baff855e42b0733f589ef)",
+      "place": "ObjectId(5a7c6c4614f4ba437b873695)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5abb6c155f0c811aebbf417e)",
+      "place": "ObjectId(5a7c63d614f4ba437b8728c3)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5abb6c155f0c811aebbf417e)",
+      "place": "ObjectId(5a7c6a6914f4ba437b87331a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5abb6c155f0c811aebbf417e)",
+      "place": "ObjectId(5a7c68a314f4ba437b873044)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c5ee79ccbd2c67143b4edbe)",
+      "place": "ObjectId(5a7c685814f4ba437b872fcb)",
+      "weight": 0
+  },
+  {
+      "userId": "ObjectId(5af6d8d826188d0df2bebffa)",
+      "place": "ObjectId(5b4df1b9d64813ebacf3647e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5bbfb694a887c51f761caec2)",
+      "place": "ObjectId(5bf4360ebd04df0b9da1b0f8)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5bbfb694a887c51f761caec2)",
+      "place": "ObjectId(5a7c656a14f4ba437b872b39)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5bbfb694a887c51f761caec2)",
+      "place": "ObjectId(5bf43578bd04df0b9da13484)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5bbfb694a887c51f761caec2)",
+      "place": "ObjectId(5a7c668514f4ba437b872cee)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c600634cbd2c67143b4ee17)",
+      "place": "ObjectId(5b4cb966d64813ebac8dcf2a)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c600634cbd2c67143b4ee17)",
+      "place": "ObjectId(5a7c699b14f4ba437b8731d4)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c600634cbd2c67143b4ee17)",
+      "place": "ObjectId(5a7c63fd14f4ba437b8728fa)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c607a64cbd2c67143b4ee4b)",
+      "place": "ObjectId(5b4cb983d64813ebac8dd84d)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c607a64cbd2c67143b4ee4b)",
+      "place": "ObjectId(5a7c643f14f4ba437b872961)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5b17f7d4968c565e1093e486)",
+      "place": "ObjectId(5a7c658014f4ba437b872b5e)",
+      "weight": 1
+  },
+  {
+      "userId": "ObjectId(5c60f2becbd2c67143b4ee6c)",
+      "place": "ObjectId(5a7c652f14f4ba437b872ada)",
+      "weight": 1
   }
 ]

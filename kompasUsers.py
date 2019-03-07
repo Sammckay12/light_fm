@@ -32,8 +32,7 @@ with open('./data/virtualRatings.json') as virtualRatings:
     virtual_ratings_data = json.load(virtualRatings)
 
 full_users = users_data+virtual_users_data
-full_ratings = ratings_data+virtual_ratings_data
-
+full_ratings = ratings_data
 # create interest list for user features
 interests = set([item for sublist in [x['interests'] for x in full_users] for item in sublist])
 interestList = list(interests)
